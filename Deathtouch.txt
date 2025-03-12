@@ -1,0 +1,70 @@
+Commander
+1 Fynn, the Fangbearer (FDN) 637
+
+Deck
+1 Ankle Biter (OTJ) 153
+34 Forest (FDN) 281
+1 Fang of Shigeki (NEO) 183
+1 Gift of the Viper (MH3) 156
+1 Gnarlwood Dryad (SIR) 196
+1 Mirkwood Spider (LTR) 178
+1 Moss Viper (THB) 179
+1 Narnam Renegade (KLR) 170
+1 Sedge Scorpion (M20) 192
+1 Tajuru Blightblade (ZNR) 208
+1 Flesh Burrower (DSK) 178
+1 Heir of the Wilds (KTK) 134
+1 Poison Dart Frog (LCI) 207
+1 Nightshade Dryad (MH3) 163
+1 Horrid Vigor (DSK) 184
+1 Thornweald Archer (FDN) 559
+1 Deathbloom Gardener (DMU) 159
+1 Daggerback Basilisk (M19) 174
+1 Ichorspit Basilisk (ONE) 170
+1 Jewel-Eyed Cobra (MH2) 168
+1 Serpent-Blade Assailant (MOM) 205
+1 Ornery Dilophosaur (M21) 194
+1 Hoarding Recluse (BRO) 186
+1 Acidic Slime (M12) 161
+1 Narnam Cobra (KLR) 254
+1 Llanowar Elves (FDN) 227
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Gala Greeters (SNC) 148
+1 Heroic Intervention (M21) 188
+1 Prosperous Innkeeper (HBG) 221
+1 Prizefight (SNC) 154
+1 Plummet (RIX) 143
+1 Return to Nature (MID) 195
+1 Revive the Shire (LTR) 185
+1 Circle of Dreams Druid (AFR) 176
+1 Champion of Lambholt (JMP) 383
+1 Cultivate (STA) 51
+1 Venomsac Lagac (DFT) 185
+1 Enduring Vitality (DSK) 176
+1 Garruk's Uprising (FDN) 220
+1 Growing Rites of Itlimoc (LCI) 188
+1 Loot, Exuberant Explorer (FDN) 106
+1 Mossborn Hydra (FDN) 107
+1 Scute Swarm (ZNR) 203
+1 Return from the Wilds (WOE) 181
+1 Tribute to the World Tree (MOM) 211
+1 Tireless Provisioner (J25) 728
+1 Toski, Bearer of Secrets (SPG) 60
+1 Overrun (FDN) 230
+1 Silverback Elder (DMU) 177
+1 The Great Henge (ELD) 161
+1 Ghalta, Primal Hunger (RIX) 130
+1 Arcane Signet (ANB) 117
+1 Swiftfoot Boots (FDN) 258
+1 Akroma's Memorial (SPG) 0
+1 Reliquary Tower (M19) 254
+1 Kappa Tech-Wrecker (NEO) 198
+1 Ruins Recluse (MOM) 336
+1 Underdark Basilisk (HBG) 227
+1 Kraul Stinger (WAR) 165
+1 Generous Stray (ANB) 95
+1 Cankerbloom (ONE) 161
+1 Pollenbright Druid (JMP) 173
+1 Carnivorous Canopy (ONE) 162
+1 Courage in Crisis (WAR) 158
+1 Evolution Sage (WAR) 159

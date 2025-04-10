@@ -1,0 +1,41 @@
+Commander
+1 Light-Paws, Emperor's Voice (NEO) 25
+
+Deck
+40 Plains (FDN) 273
+1 Pearl-Ear, Imperial Advisor (MH3) 39
+1 Pearl Medallion (MH3) 294
+1 Ethereal Armor (DSK) 7
+1 Glaring Aegis (M20) 18
+1 Sentinel's Eyes (THB) 36
+1 Shardmage's Rescue (DSK) 29
+1 All That Glitters (ELD) 2
+1 Angelic Gift (J25) 165
+1 Chosen by Heliod (J25) 181
+1 Glyph Elemental (MH3) 27
+1 Skyblade's Boon (MH2) 31
+1 Transcendent Envoy (THB) 40
+1 Twinblade Geist (VOW) 40
+1 Face of Divinity (JMP) 103
+1 Dub (M21) 16
+1 Pariah (OTP) 5
+1 Twinblade Blessing (FDN) 26
+1 Squire's Devotion (RIX) 25
+1 Angelic Destiny (FDN) 565
+1 Candlelight Vigil (GRN) 3
+1 Commanding Presence (THB) 7
+1 Serra's Embrace (J25) 252
+1 Angelic Reward (ANB) 3
+1 Celestial Mantle (JMP) 96
+1 Siegecraft (KTK) 23
+1 Sage's Reverie (PIO) 324
+1 Path to Exile (OTP) 6
+1 Swords to Plowshares (STA) 10
+1 Ossification (ONE) 26
+1 Teferi's Protection (STA) 11
+1 Ghostly Prison (SPG) 19
+1 Shadowspear (THB) 236
+1 Swiftfoot Boots (FDN) 258
+1 Thran Power Suit (BRO) 253
+1 Idyllic Tutor (THB) 24
+1 Roaming Throne (LCI) 258

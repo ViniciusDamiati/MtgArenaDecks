@@ -47,7 +47,6 @@ Deck
 1 Luxurious Locomotive (OTJ) 244
 1 Roaming Throne (LCI) 258
 1 Akroma's Memorial (SPG) 0
-1 Skybox Ferry (DFT) 243
 1 Cavern of Souls (LCI) 269
 1 Reliquary Tower (M19) 254
 1 Titanoth Rex (IKO) 174
@@ -66,3 +65,4 @@ Deck
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Kozilek, the Great Distortion (OGW) 4
 1 Sire of Seven Deaths (FDN) 1
+1 Fierce Empath (FDN) 636

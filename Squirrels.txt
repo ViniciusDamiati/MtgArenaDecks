@@ -23,7 +23,6 @@ Deck
 1 A-Blood Artist (JMP) 206
 1 Camellia, the Seedmiser (BLB) 207
 1 Peregrin Took (LTR) 181
-1 Bolas's Citadel (WAR) 79
 1 Mirkwood Bats (LTR) 95
 1 Second Harvest (SIR) 213
 1 Chitterspitter (MH2) 153
@@ -77,3 +76,4 @@ Deck
 1 Khalni Garden (J21) 121
 1 Defense of the Heart (WOT) 51
 1 Chittering Illuminator (Y25) 15
+1 Bootleggers' Stash (SNC) 134

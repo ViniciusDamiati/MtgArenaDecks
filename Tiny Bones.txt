@@ -1,0 +1,68 @@
+Commander
+1 Tinybones, the Pickpocket (OTJ) 109
+
+Deck
+36 Swamp (FDN) 277
+1 Duress (MID) 98
+1 A-Dokuchi Silencer (NEO) 95
+1 Binding Negotiation (OTJ) 78
+1 Burglar Rat (FDN) 170
+1 Macabre Waltz (FDN) 177
+1 Virus Beetle (NEO) 128
+1 Cerebral Confiscation (MKM) 81
+1 Dying to Serve (VOW) 109
+1 Gastal Raider (DFT) 86
+1 Gix's Caress (BRO) 96
+1 Psychic Whorl (BLB) 105
+1 Seeker's Folly (FDN) 69
+1 Cryptcaller Chariot (DFT) 80
+1 Honden of Night's Reach (CHK) 116
+1 Eriette's Whisper (WOE) 88
+1 Rankle's Prank (WOE) 102
+1 The Long Reach of Night (NEO) 109
+1 Sheoldred (MOM) 125
+1 Arbiter of Woe (FDN) 55
+1 Bloodchief's Thirst (ZNR) 94
+1 Bone Splinters (M20) 92
+1 You Are Already Dead (NEO) 129
+1 Unfortunate Accident (OTJ) 111
+1 Bitter Triumph (LCI) 91
+1 Feed the Cycle (BLB) 94
+1 Infernal Grasp (MID) 107
+1 Shoot the Sheriff (OTJ) 106
+1 Ultimate Price (PIO) 116
+1 Feed the Cauldron (WOE) 91
+1 Hero's Downfall (FDN) 175
+1 Murder (MKM) 95
+1 Nocturnal Hunger (BLB) 102
+1 Spin Out (DFT) 106
+1 Vanquish the Weak (ZNR) 131
+1 Bake into a Pie (FDN) 169
+1 Fell the Profane (MH3) 244
+1 Deadly Plot (FDN) 520
+1 Scavenger's Talent (BLB) 111
+1 Phyrexian Arena (FDN) 180
+1 Warren Soultrader (MH3) 110
+1 Mardu Outrider (ANB) 52
+1 Grave Pact (WOT) 29
+1 Rev, Tithe Extractor (J25) 45
+1 Eradicator Valkyrie (KHM) 94
+1 Dictate of Erebos (PIO) 91
+1 Bolas's Citadel (WAR) 79
+1 Revel in Riches (XLN) 117
+1 Zulaport Cutthroat (PIO) 121
+1 Scrawling Crawler (FDN) 132
+1 The Aetherspark (DFT) 231
+1 Akroma's Memorial (SPG) 0
+1 Cavern of Souls (LCI) 269
+1 A-Blood Artist (JMP) 206
+1 Rogue's Passage (PIO) 273
+1 Suspicious Bookcase (SNC) 245
+1 Syr Konrad, the Grim (ELD) 107
+1 Manifold Key (M20) 230
+1 Access Tunnel (STX) 262
+1 Vicious Rumors (GRN) 89
+1 Dark Ritual (STA) 26
+1 Accursed Marauder (MH3) 80
+1 Bastion of Remembrance (J25) 403
+1 Cloak of the Bat (HBG) 256

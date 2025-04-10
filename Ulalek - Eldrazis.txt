@@ -36,7 +36,6 @@ Deck
 1 World Breaker (OGW) 126
 1 Battlefield Forge (BRO) 257
 1 Brushland (BRO) 259
-1 Herigast, Erupting Nullkite (MH3) 8
 1 The Irencrag (WOE) 248
 1 Chromatic Lantern (BRR) 10
 1 Temple Garden (GRN) 258
@@ -91,3 +90,4 @@ Deck
 2 Island (ANB) 113
 1 Roaming Throne (LCI) 258
 1 Sire of Seven Deaths (FDN) 1
+1 Ugin, Eye of the Storms (TDM) 1

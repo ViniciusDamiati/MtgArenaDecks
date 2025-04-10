@@ -27,7 +27,7 @@ Deck
 1 Thornweald Archer (FDN) 559
 1 Wren's Run Vanquisher (JMP) 447
 1 Circle of Dreams Druid (AFR) 176
-1 Eladamri, Korvecdal (MH3) 149
+1 Elvish Warmaster (KHM) 167
 1 Freyalise, Skyshroud Partisan (J21) 26
 1 Marwyn, the Nurturer (J25) 687
 1 Llanowar Tribe (MH1) 170

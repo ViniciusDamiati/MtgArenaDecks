@@ -1,0 +1,6 @@
+Commander
+1 Hofri Ghostforge (STX) 192
+
+Deck
+20 Plains (FDN) 273
+20 Mountain (FDN) 279

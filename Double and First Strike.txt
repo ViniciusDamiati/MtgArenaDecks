@@ -1,0 +1,78 @@
+Commander
+1 Tsagan, Raider Warlord (Y25) 27
+
+Deck
+10 Mountain (FDN) 279
+7 Swamp (FDN) 277
+11 Plains (FDN) 273
+1 Fencing Ace (ANB) 7
+1 Twinblade Geist (VOW) 40
+1 Blade-Blizzard Kitsune (NEO) 5
+1 Demystify (XLN) 8
+1 The Eternal Wanderer (ONE) 11
+1 Swiftblade Vindicator (FDN) 246
+1 Zetalpa, Primal Dawn (RIX) 30
+1 Goring Ceratops (ANB) 8
+1 Rover Blades (DFT) 241
+1 Eater of Virtue (NEO) 245
+1 Battlefield Raptor (KHM) 3
+1 Duelist of Deep Faith (ONE) 9
+1 Brightblade Stoat (BLB) 4
+1 Eidolon of Obstruction (THB) 12
+1 Urdnan, Dromoka Warrior (J25) 34
+1 Syr Alin, the Lion's Claw (FDN) 582
+1 Fervent Champion (ELD) 124
+1 Kindled Heroism (WOE) 138
+1 Reckless Lackey (OTJ) 140
+1 Impetuous Lootmonger (Y24) 12
+1 Sure Strike (FDN) 209
+1 Alesha, Who Laughs at Fate (FDN) 115
+1 Bonehoard Dracosaur (LCI) 134
+1 Mardu Charm (KTK) 186
+1 Akroma's Memorial (SPG) 0
+1 Sire of Seven Deaths (FDN) 1
+1 Quick-Draw Katana (FDN) 130
+1 Caves of Koilos (DMU) 244
+1 Bleachbone Verge (DFT) 250
+1 Shattered Sanctum (VOW) 264
+1 Haunted Ridge (MID) 263
+1 Sulfurous Springs (DMU) 256
+1 Inspiring Vantage (OTJ) 269
+1 Sunbillow Verge (DFT) 264
+1 Sundown Pass (VOW) 266
+1 Command Tower (ANB) 118
+1 Bloodstained Mire (MH3) 216
+1 Fabled Passage (BLB) 252
+1 Reliquary Tower (M19) 254
+1 Journey to Nowhere (OTP) 3
+1 Ossification (ONE) 26
+1 Scorching Dragonfire (FDN) 545
+1 Eriette's Lullaby (OTJ) 10
+1 Day of Judgment (FDN) 140
+1 Ondu Inversion (ZNR) 30
+1 Bloodchief's Thirst (ZNR) 94
+1 Cruel Cut (ANB) 47
+1 Infernal Grasp (MID) 107
+1 Shoot the Sheriff (OTJ) 106
+1 Murder (MKM) 95
+1 Spin Out (DFT) 106
+1 Cooped Up (WOE) 8
+1 Stasis Snare (FDN) 581
+1 Impact Tremors (FDN) 717
+1 Blink Dog (AFR) 3
+1 Diamond Pick-Axe (LCI) 143
+1 Knife (MKM) 134
+1 Mardu Banner (KTK) 224
+1 Arcane Signet (ANB) 117
+1 Goldvein Pick (FDN) 253
+1 Swiftfoot Boots (FDN) 258
+1 Chromatic Lantern (BRR) 10
+1 The Aetherspark (DFT) 231
+1 Illuminator Virtuoso (SNC) 17
+1 Kor Blademaster (ZNR) 21
+1 Jawbone Duelist (ONE) 18
+1 Shrike Force (BLB) 31
+1 Kwende, Pride of Femeref (MUL) 70
+1 Pride of the Road (DFT) 24
+1 Ajani Fells the Godsire (MH3) 19
+1 Twinscroll Shaman (STX) 118

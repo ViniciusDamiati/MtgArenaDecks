@@ -43,7 +43,6 @@ Deck
 1 Urza's Incubator (MH3) 297
 1 Thief of Existence (MH3) 174
 1 Thought-Knot Seer (OGW) 9
-1 Eldrazi Linebreaker (MH3) 117
 1 Path of Annihilation (MH3) 165
 1 Kozilek's Unsealing (MH3) 65
 1 Snapping Voidcraw (MH3) 204
@@ -54,12 +53,11 @@ Deck
 1 Wastescape Battlemage (MH3) 17
 1 Worn Powerstone (MH3) 298
 1 Writhing Chrysalis (MH3) 208
-1 Glimpse the Impossible (MH3) 124
 1 Drowner of Truth (MH3) 253
 1 Mind Stone (WTH) 153
 1 Eldrazi Repurposer (MH3) 150
 1 Titans' Vanguard (MH3) 206
-1 Idol of False Gods (MH3) 210
+1 Emrakul's Messenger (MH3) 61
 1 Palladium Myr (M21) 234
 1 Spawn-Gang Commander (MH3) 140
 1 Hedron Archive (JMP) 468
@@ -72,16 +70,15 @@ Deck
 1 Unclaimed Territory (XLN) 258
 1 Eldrazi Ravager (MH3) 5
 1 Dreamstone Hedron (JMP) 464
-1 Territory Culler (MH3) 173
 1 Explore (JMP) 393
 1 Elvish Mystic (M14) 169
 1 Avacyn's Pilgrim (SIS) 48
 1 Llanowar Elves (M19) 314
-1 Emrakul's Messenger (MH3) 61
+1 Urza's Construction Drone (Y23) 29
 1 Conduit Pylons (OTJ) 254
 1 Reliquary Tower (M19) 254
 1 Malevolent Rumble (MH3) 161
-1 Up the Beanstalk (WOE) 195
+1 Garruk's Uprising (FDN) 220
 1 Arid Archway (OTJ) 252
 1 Horrific Assault (MH3) 157
 1 It That Heralds the End (MH3) 9
@@ -91,3 +88,6 @@ Deck
 1 Roaming Throne (LCI) 258
 1 Sire of Seven Deaths (FDN) 1
 1 Ugin, Eye of the Storms (TDM) 1
+1 Imoti, Celebrant of Bounty (MUL) 108
+1 Ultima, Origin of Oblivion (FIN) 2
+1 Summon: Bahamut (FIN) 1

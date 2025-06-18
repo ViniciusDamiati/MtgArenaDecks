@@ -36,7 +36,6 @@ Deck
 1 Toski, Bearer of Secrets (SPG) 60
 1 Verdant Command (MH2) 182
 1 Zulaport Cutthroat (PIO) 121
-1 Squirrel Mob (BLC) 85
 1 Tireless Provisioner (J25) 728
 1 Rev, Tithe Extractor (J25) 45
 1 Honored Dreyleader (BLB) 178
@@ -51,7 +50,6 @@ Deck
 1 Cultivate (STA) 51
 1 Awaken the Woods (BRO) 170
 1 Overrun (FDN) 230
-1 Ashnod's Altar (BRR) 4
 1 Swiftfoot Boots (FDN) 258
 1 Parallel Lives (WOT) 58
 1 Growing Rites of Itlimoc (LCI) 188
@@ -77,3 +75,5 @@ Deck
 1 Defense of the Heart (WOT) 51
 1 Chittering Illuminator (Y25) 15
 1 Bootleggers' Stash (SNC) 134
+1 Andúril, Flame of the West (LTR) 236
+1 Quina, Qu Gourmet (FIN) 194

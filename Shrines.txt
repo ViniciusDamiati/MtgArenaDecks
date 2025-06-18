@@ -2,13 +2,13 @@ Commander
 1 Go-Shintai of Life's Origin (NEC) 37
 
 Deck
-3 Swamp (FDN) 277
+1 Swamp (FDN) 277
 1 Go-Shintai of Shared Purpose (NEO) 14
-4 Mountain (FDN) 279
+1 Mountain (FDN) 279
 1 Go-Shintai of Ancient Wars (NEO) 144
-6 Plains (FDN) 273
+1 Plains (FDN) 273
 1 Go-Shintai of Hidden Cruelty (NEO) 97
-6 Forest (FDN) 281
+1 Forest (FDN) 281
 1 Sanctum of Tranquil Light (M21) 33
 1 Go-Shintai of Lost Wisdom (NEO) 55
 1 Sanctum of Calm Waters (M21) 68
@@ -22,28 +22,22 @@ Deck
 1 Honden of Life's Web (CHK) 213
 1 Sanctum of All (M21) 225
 1 Honden of Cleansing Fire (CHK) 14
-3 Island (FDN) 275
-1 Daxos, Blessed by the Sun (THB) 9
-1 Ossification (ONE) 26
-1 Pacifism (FDN) 501
+1 Island (FDN) 275
+1 Birds of Paradise (BLC) 81
+1 Cyclonic Rift (RTR) 35
 1 Petrify (LCI) 30
-1 Bastion of Remembrance (J25) 403
-1 Phyrexian Arena (FDN) 180
-1 Dictate of Erebos (PIO) 91
+1 Spara's Headquarters (SNC) 257
 1 Impact Tremors (FDN) 717
 1 Growing Rites of Itlimoc (LCI) 188
-1 Enduring Vitality (DSK) 176
 1 Tribute to the World Tree (MOM) 211
 1 Parallel Lives (WOT) 58
 1 Doubling Season (FDN) 216
 1 Jukai Naturalist (NEO) 225
 1 Satyr Enchanter (M19) 223
 1 Calix, Guided by Fate (MAT) 26
-1 Grave Pact (WOT) 29
 1 Garruk's Uprising (FDN) 220
 1 Warleader's Call (MKM) 242
 1 Starfield Mystic (J25) 260
-1 Heliod, Sun-Crowned (THB) 18
 1 Purphoros, God of the Forge (PIO) 296
 1 Destiny Spinner (THB) 168
 1 Sanctum Weaver (MH2) 171
@@ -54,7 +48,7 @@ Deck
 1 Zur, Eternal Schemer (DMU) 228
 1 Idyllic Tutor (THB) 24
 1 Greater Auramancy (WOT) 4
-1 Yenna, Redtooth Regent (WOE) 219
+1 Teferi's Protection (STA) 11
 1 Anointed Procession (AKR) 2
 1 Hallowed Haunting (VOW) 17
 1 Smothering Tithe (WOT) 13
@@ -68,11 +62,10 @@ Deck
 1 Valgavoth's Lair (DSK) 271
 1 Ghostly Prison (SPG) 19
 1 Elesh Norn, Mother of Machines (ONE) 10
-1 Panharmonicon (KLR) 258
 1 Cultivate (STA) 51
 1 Path to Exile (OTP) 6
 1 Swords to Plowshares (STA) 10
-1 Roaming Throne (LCI) 258
+1 Leyline of the Guildpact (MKM) 217
 1 Steam Vents (GRN) 257
 1 Temple Garden (GRN) 258
 1 Stomping Ground (RNA) 259
@@ -80,7 +73,31 @@ Deck
 1 Polluted Delta (MH3) 224
 1 Wooded Foothills (MH3) 236
 1 Command Tower (ANB) 118
-1 Cavern of Souls (LCI) 269
 1 Reliquary Tower (M19) 254
 1 Scrabbling Skullcrab (DSK) 71
 1 Shrine Steward (NEO) 259
+1 Chronicler of Worship (Y22) 25
+1 Ancestral Mask (MMQ) 229
+1 Boseiju, Who Endures (NEO) 266
+1 Deserted Beach (MID) 260
+1 Caves of Koilos (DMU) 244
+1 Shipwreck Marsh (MID) 267
+1 Riverpyre Verge (DFT) 260
+1 Windswept Heath (MH3) 235
+1 Blazemire Verge (DSK) 256
+1 Rockfall Vale (MID) 266
+1 Brushland (BRO) 259
+1 Breeding Pool (RNA) 246
+1 Jetmir's Garden (SNC) 250
+1 Arid Mesa (SPG) 109
+1 Bloodstained Mire (MH3) 216
+1 Fabled Passage (BLB) 252
+1 Misty Rainforest (SPG) 111
+1 Sunbillow Verge (DFT) 264
+1 Overgrown Tomb (GRN) 253
+1 Bleachbone Verge (DFT) 250
+1 Xander's Lounge (SNC) 260
+1 Willowrush Verge (DFT) 270
+1 Wastewood Verge (DFT) 268
+1 Arcane Signet (ANB) 117
+1 Yuna, Hope of Spira (FIN) 250

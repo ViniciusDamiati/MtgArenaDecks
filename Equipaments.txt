@@ -3,7 +3,7 @@ Commander
 
 Deck
 12 Mountain (FDN) 279
-13 Plains (FDN) 273
+12 Plains (FDN) 273
 1 Sram, Senior Edificer (MUL) 71
 1 Danitha Capashen, Paragon (J25) 59
 1 Halvar, God of Battle (KHM) 15
@@ -11,7 +11,7 @@ Deck
 1 Rhuk, Hexgold Nabber (ONE) 407
 1 Reyav, Master Smith (MUL) 122
 1 Akiri, Fearless Voyager (ZNR) 220
-1 A-Nahiri, Heir of the Ancients (ZNR) 230
+1 Soulstealer Axe (Y22) 60
 1 Astor, Bearer of Blades (DMU) 194
 1 Nahiri, Storm of Stone (WAR) 233
 1 Nahiri, Forged in Fury (MAT) 36
@@ -21,7 +21,6 @@ Deck
 1 Celestial Armor (FDN) 5
 1 Maul of the Skyclaves (J25) 223
 1 Lizard Blades (NEO) 153
-1 Lightning Spear (MH2) 134
 1 Two-Handed Axe (HBG) 191
 1 Bladehold War-Whip (ONE) 197
 1 Barrow-Blade (LTR) 237
@@ -30,9 +29,7 @@ Deck
 1 Hunter's Blowgun (LCI) 255
 1 Cliffhaven Kitesail (J25) 748
 1 Lavaspur Boots (OTJ) 243
-1 Lost Jitte (BIG) 23
 1 Shadowspear (THB) 236
-1 Tarrian's Soulcleaver (LCI) 264
 1 Zephyr Boots (STX) 261
 1 Batterbone (MH2) 221
 1 Cloak of the Bat (HBG) 256
@@ -41,7 +38,6 @@ Deck
 1 Swiftfoot Boots (FDN) 258
 1 Thran Power Suit (BRO) 253
 1 Andúril, Flame of the West (LTR) 236
-1 Lotus Ring (BIG) 24
 1 Mithril Coat (LTR) 245
 1 Nettlecyst (MH2) 231
 1 Quietus Spike (BRR) 46
@@ -57,12 +53,11 @@ Deck
 1 Sacred Foundry (GRN) 254
 1 Sunbaked Canyon (MH1) 247
 1 Sunbillow Verge (DFT) 264
-1 Arid Mesa (MH2) 244
+1 Arid Mesa (SPG) 109
 1 Bloodstained Mire (MH3) 216
 1 Cavern of Souls (LCI) 269
 1 Command Tower (ANB) 118
 1 Fabled Passage (BLB) 252
-1 Prismatic Vista (SPG) 38
 1 Reliquary Tower (M19) 254
 1 Windswept Heath (MH3) 235
 1 Arcane Signet (ANB) 117
@@ -74,11 +69,13 @@ Deck
 1 Open the Armory (PIO) 360
 1 Boros Charm (FDN) 721
 1 Fighter Class (AFR) 222
-1 Esper Sentinel (MH2) 12
 1 Koll, the Forgemaster (KHM) 220
 1 Sigarda's Aid (SIR) 43
-1 Smothering Tithe (RNA) 22
 1 All That Glitters (ELD) 2
-1 Magda, Brazen Outlaw (KHM) 142
 1 Forging the Tyrite Sword (KHM) 211
 1 Blacksmith's Talent (BLB) 125
+1 Cloud, Midgar Mercenary (FIN) 10
+1 Cloud, Planet's Champion (FIN) 552
+1 Buster Sword (FIN) 255
+1 Genji Glove (FIN) 258
+1 Godo, Bandit Warlord (FCA) 13

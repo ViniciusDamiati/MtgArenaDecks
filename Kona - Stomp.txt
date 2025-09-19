@@ -2,7 +2,7 @@ Commander
 1 Kona, Rescue Beastie (DSK) 187
 
 Deck
-36 Forest (FDN) 281
+35 Forest (FDN) 281
 1 Bushwhack (FDN) 215
 1 Gift of the Viper (MH3) 156
 1 Llanowar Elves (FDN) 227
@@ -44,7 +44,7 @@ Deck
 1 Goldvein Pick (FDN) 253
 1 Mobile Homestead (OTJ) 245
 1 Swiftfoot Boots (FDN) 258
-1 Luxurious Locomotive (OTJ) 244
+1 Sledge-Class Seedship (EOE) 208
 1 Roaming Throne (LCI) 258
 1 Akroma's Memorial (SPG) 0
 1 Cavern of Souls (LCI) 269
@@ -66,3 +66,4 @@ Deck
 1 Kozilek, the Great Distortion (OGW) 4
 1 Sire of Seven Deaths (FDN) 1
 1 Fierce Empath (FDN) 636
+1 Evendo, Waking Haven (EOE) 253

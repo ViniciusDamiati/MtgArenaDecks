@@ -2,7 +2,7 @@ Commander
 1 Chatterfang, Squirrel General (BLC) 82
 
 Deck
-13 Forest (FDN) 281
+12 Forest (FDN) 281
 13 Swamp (FDN) 277
 1 Scavenger's Talent (BLB) 111
 1 Experimental Confectioner (WOE) 314
@@ -18,7 +18,7 @@ Deck
 1 Valley Mightcaller (BLB) 202
 1 Fabled Passage (ELD) 244
 1 Valley Rotcaller (BLB) 119
-1 Scute Swarm (ZNR) 203
+1 Black Market Connections (HBG) 145
 1 Prosperous Innkeeper (HBG) 221
 1 A-Blood Artist (JMP) 206
 1 Camellia, the Seedmiser (BLB) 207
@@ -77,3 +77,4 @@ Deck
 1 Bootleggers' Stash (SNC) 134
 1 Andúril, Flame of the West (LTR) 236
 1 Quina, Qu Gourmet (FIN) 194
+1 Evendo, Waking Haven (EOE) 253

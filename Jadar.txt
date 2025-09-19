@@ -1,0 +1,68 @@
+Commander
+1 Jadar, Ghoulcaller of Nephalia (MID) 108
+
+Deck
+1 Dark Ritual (STA) 26
+1 Disfigure (M20) 95
+1 A-Blood Artist (JMP) 206
+1 Vraan, Executioner Thane (ONE) 114
+1 Accursed Marauder (MH3) 80
+1 Massacre Wurm (FDN) 714
+36 Swamp (KTK) 254
+1 Duress (MID) 98
+1 Foulmire Knight (ELD) 90
+1 Greedy Freebooter (LCI) 109
+1 Scavenger's Talent (BLB) 111
+1 Vicious Rumors (GRN) 89
+1 Reassembling Skeleton (FDN) 182
+1 Shoot the Sheriff (OTJ) 106
+1 Strategic Betrayal (TDM) 94
+1 Zulaport Cutthroat (PIO) 121
+1 Bastion of Remembrance (J25) 403
+1 Phyrexian Arena (FDN) 180
+1 Spin Out (DFT) 106
+1 Warren Soultrader (MH3) 110
+1 Withering Torment (DSK) 124
+1 Victimize (MH3) 278
+1 Eradicator Valkyrie (KHM) 94
+1 Grave Pact (WOT) 29
+1 Gravedigger (M19) 98
+1 Mirkwood Bats (LTR) 95
+1 Pitiless Plunderer (J25) 476
+1 Rev, Tithe Extractor (J25) 45
+1 Drivnod, Carnage Dominus (ONE) 90
+1 Vindictive Vampire (RNA) 90
+1 Dictate of Erebos (PIO) 91
+1 Grievous Wound (DSK) 102
+1 Open the Graves (M19) 112
+1 Revel in Riches (XLN) 117
+1 Syr Konrad, the Grim (ELD) 107
+1 Bolas's Citadel (WAR) 79
+1 Demon of Loathing (ANB) 48
+1 Virtue of Persistence (WOE) 115
+1 Vito, Thorn of the Dusk Rose (J25) 71
+1 Mudflat Village (BLB) 257
+1 Arcane Signet (ANB) 117
+1 Crashing Drawbridge (ELD) 217
+1 Swiftfoot Boots (FDN) 258
+1 Ashnod's Altar (BRR) 4
+1 Heraldic Banner (FDN) 254
+1 Scrawling Crawler (FDN) 132
+1 Cavern of Souls (LCI) 269
+1 Fabled Passage (BLB) 252
+1 Reliquary Tower (M19) 254
+1 Vengeful Bloodwitch (FDN) 76
+1 Venerated Stormsinger (TDM) 97
+1 Malakir Cullblade (ANB) 51
+1 Phyrexian Vivisector (DMU) 100
+1 Voracious Vermin (WOE) 116
+1 Infernal Grasp (MID) 107
+1 Murder (DSK) 110
+1 Bake into a Pie (FDN) 169
+1 Nocturnal Hunger (BLB) 102
+1 Hero's Downfall (FDN) 175
+1 Xander's Wake (Y22) 9
+1 Enduring Tenacity (DSK) 95
+1 The Darkness Crystal (FIN) 96
+1 Sephiroth, Fabled SOLDIER (FIN) 115
+1 The Masamune (FIN) 264

@@ -61,7 +61,6 @@ Deck
 1 Palladium Myr (M21) 234
 1 Spawn-Gang Commander (MH3) 140
 1 Hedron Archive (JMP) 468
-1 Guardian Idol (JMP) 467
 1 Propagator Drone (MH3) 167
 1 Null Elemental Blast (MH3) 12
 1 Solar Transformer (MH3) 211
@@ -77,12 +76,12 @@ Deck
 1 Urza's Construction Drone (Y23) 29
 1 Conduit Pylons (OTJ) 254
 1 Reliquary Tower (M19) 254
-1 Malevolent Rumble (MH3) 161
+1 Palantír of Orthanc (LTR) 247
 1 Garruk's Uprising (FDN) 220
 1 Arid Archway (OTJ) 252
 1 Horrific Assault (MH3) 157
 1 It That Heralds the End (MH3) 9
-7 Forest (ANB) 112
+6 Forest (ANB) 112
 4 Mountain (ANB) 114
 2 Island (ANB) 113
 1 Roaming Throne (LCI) 258
@@ -91,3 +90,5 @@ Deck
 1 Imoti, Celebrant of Bounty (MUL) 108
 1 Ultima, Origin of Oblivion (FIN) 2
 1 Summon: Bahamut (FIN) 1
+1 The Eternity Elevator (EOE) 241
+1 Eldrazi Temple (EOS) 14

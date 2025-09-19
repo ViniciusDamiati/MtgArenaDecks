@@ -2,9 +2,9 @@ Commander
 1 Tsagan, Raider Warlord (Y25) 27
 
 Deck
-10 Mountain (FDN) 279
-7 Swamp (FDN) 277
-11 Plains (FDN) 273
+9 Mountain (FDN) 279
+6 Swamp (FDN) 277
+9 Plains (FDN) 273
 1 Fencing Ace (ANB) 7
 1 Twinblade Geist (VOW) 40
 1 Blade-Blizzard Kitsune (NEO) 5
@@ -76,3 +76,7 @@ Deck
 1 Pride of the Road (DFT) 24
 1 Ajani Fells the Godsire (MH3) 19
 1 Twinscroll Shaman (STX) 118
+1 Blazemire Verge (DSK) 256
+1 Arid Mesa (SPG) 109
+1 Nomad Outpost (TDM) 263
+1 Cavern of Souls (LCI) 269

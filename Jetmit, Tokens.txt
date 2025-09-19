@@ -5,14 +5,14 @@ Deck
 1 Ossification (ONE) 26
 7 Plains (FDN) 273
 5 Mountain (FDN) 279
-7 Forest (FDN) 281
+6 Forest (FDN) 281
 1 Adeline, Resplendent Cathar (MID) 1
 1 Akroma's Will (FCA) 21
 1 Toski, Bearer of Secrets (SPG) 60
 1 Thunderbond Vanguard (Y25) 2
 1 Felidar Retreat (FDN) 574
 1 Cankerbloom (ONE) 161
-1 Gala Greeters (SNC) 148
+1 Tajic, Legion's Valor (Y24) 28
 1 Heroic Intervention (M21) 188
 1 Prosperous Innkeeper (HBG) 221
 1 Verdant Command (MH2) 182
@@ -57,7 +57,6 @@ Deck
 1 Purphoros, God of the Forge (PIO) 296
 1 Birds of Paradise (BLC) 81
 1 Cryptolith Rite (SIR) 192
-1 Enduring Vitality (DSK) 176
 1 Krosan Grip (STA) 53
 1 Defense of the Heart (WOT) 51
 1 Pest Infestation (OTP) 30
@@ -85,3 +84,5 @@ Deck
 1 Roxanne, Starfall Savant (OTJ) 228
 1 Waystone's Guidance (Y25) 3
 1 Quina, Qu Gourmet (FIN) 194
+1 Land Tax (WOT) 9
+1 Evendo, Waking Haven (EOE) 253

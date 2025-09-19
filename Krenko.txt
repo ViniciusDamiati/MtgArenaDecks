@@ -51,7 +51,7 @@ Deck
 1 Cavern of Souls (LCI) 269
 1 Three Tree City (BLB) 260
 1 Three Tree Mascot (BLB) 251
-1 Roaming Throne (LCI) 258
+1 Foundry Street Denizen (J21) 72
 1 Patchwork Banner (BLB) 247
 1 Banner of Kinship (FDN) 127
 1 Heraldic Banner (FDN) 254

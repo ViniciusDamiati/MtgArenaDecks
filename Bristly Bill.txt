@@ -15,16 +15,13 @@ Deck
 1 Explore (JMP) 393
 1 Gala Greeters (SNC) 148
 1 Heroic Intervention (M21) 188
-1 Ilysian Caryatid (ANB) 98
 1 Innkeeper's Talent (BLB) 180
 1 Lotus Cobra (ZNR) 193
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Roaring Earth (NEO) 204
-1 Up the Beanstalk (WOE) 195
 1 Azusa, Lost but Seeking (M21) 173
 1 Branching Evolution (MH3) 285
 1 Champion of Lambholt (JMP) 383
-1 Circle of Dreams Druid (AFR) 176
 1 Cultivate (STA) 51
 1 Evolution Sage (WAR) 159
 1 Garruk's Uprising (FDN) 220
@@ -48,7 +45,6 @@ Deck
 1 Surrak and Goreclaw (MOM) 337
 1 Vorinclex, Monstrous Raider (KHM) 199
 1 Cultivator Colossus (VOW) 195
-1 Rampaging Brontodon (ANB) 102
 1 The Great Henge (ELD) 161
 1 The Ozolith (IKO) 237
 1 Swiftfoot Boots (FDN) 258
@@ -58,7 +54,6 @@ Deck
 1 Brokers Hideout (SNC) 248
 1 Cabaretti Courtyard (SNC) 249
 1 Cavern of Souls (LCI) 269
-1 Command Tower (ANB) 118
 1 Evolving Wilds (FDN) 262
 1 Fabled Passage (BLB) 252
 1 Reliquary Tower (M19) 254
@@ -73,3 +68,8 @@ Deck
 1 Forgotten Ancient (J25) 147
 1 The Earth Crystal (FIN) 184
 1 Traveling Chocobo (FIN) 210
+1 Jumbo Cactuar (FIN) 191
+1 Tifa Lockhart (FIN) 206
+1 Ouroboroid (EOE) 201
+1 Terrasymbiosis (EOE) 210
+1 Evendo, Waking Haven (EOE) 253

@@ -1,0 +1,51 @@
+Commander
+1 Urza, Lord High Artificer (FCA) 5
+
+Deck
+34 Island (FIN) 297
+1 Unwinding Clock (BRR) 61
+1 Sai, Master Thopterist (M19) 69
+1 Foundry Inspector (BRR) 16
+1 Seat of the Synod (J25) 773
+1 Darksteel Citadel (M15) 242
+1 Dramatic Reversal (PIO) 364
+1 Padeem, Consul of Innovation (J25) 62
+1 Emry, Lurker of the Loch (MUL) 74
+1 Fabricate (SPG) 20
+1 The Reality Chip (NEO) 74
+1 Whir of Invention (SPG) 0
+1 Mystic Forge (BRR) 36
+1 Howling Mine (BRR) 20
+1 Tormod's Crypt (M21) 241
+1 Ornithopter (BRR) 37
+1 Cyclonic Rift (RTR) 35
+1 A-The One Ring (LTR) 246
+1 Narset, Parter of Veils (WAR) 61
+1 Ancient Tomb (EOS) 1
+1 Chrome Mox (SPG) 0
+1 Displacer Kitten (HBG) 115
+1 Forensic Gadgeteer (MKM) 57
+1 Hullbreaker Horror (VOW) 63
+1 Liberator, Urza's Battlethopter (BRO) 237
+1 Phyrexian Metamorph (NPH) 42
+1 Thought Monitor (J25) 373
+1 Vedalken Archmage (JMP) 187
+1 An Offer You Can't Refuse (FDN) 160
+1 Brainstorm (STA) 13
+1 Negate (ZNR) 71
+1 Swan Song (THS) 65
+1 Pondering Mage (MH1) 63
+1 Thoughtcast (SPG) 0
+1 Aether Spellbomb (JMP) 456
+1 Arcane Signet (ANB) 117
+1 Manifold Key (M20) 230
+1 Mind Stone (WTH) 153
+1 Mishra's Bauble (BRR) 34
+1 Swiftfoot Boots (FDN) 258
+1 Paradox Engine (KLR) 259
+1 Buried Ruin (JMP) 491
+1 Inventors' Fair (EOS) 21
+1 Mystic Sanctuary (ELD) 247
+1 Reliquary Tower (M19) 254
+1 Urza's Construction Drone (Y23) 29
+1 Uthros, Titanic Godcore (EOE) 260

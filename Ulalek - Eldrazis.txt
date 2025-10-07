@@ -27,7 +27,7 @@ Deck
 1 Echoes of Eternity (MH3) 4
 1 Kozilek's Command (MH3) 11
 1 Nulldrifter (MH3) 13
-1 Kozilek, the Broken Reality (MH3) 10
+1 Emrakul, the Aeons Torn (ROE) 4
 1 Kozilek, the Great Distortion (OGW) 4
 1 Devourer of Destiny (MH3) 2
 1 Yavimaya Coast (DMU) 261

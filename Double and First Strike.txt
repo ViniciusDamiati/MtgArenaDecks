@@ -2,9 +2,9 @@ Commander
 1 Tsagan, Raider Warlord (Y25) 27
 
 Deck
-9 Mountain (FDN) 279
-6 Swamp (FDN) 277
-9 Plains (FDN) 273
+8 Mountain (FDN) 279
+5 Swamp (FDN) 277
+7 Plains (FDN) 273
 1 Fencing Ace (ANB) 7
 1 Twinblade Geist (VOW) 40
 1 Blade-Blizzard Kitsune (NEO) 5
@@ -13,13 +13,13 @@ Deck
 1 Swiftblade Vindicator (FDN) 246
 1 Zetalpa, Primal Dawn (RIX) 30
 1 Goring Ceratops (ANB) 8
-1 Rover Blades (DFT) 241
-1 Eater of Virtue (NEO) 245
+1 Dual-Sun Adepts (EOE) 12
+1 Lightning, Army of One (FIN) 233
 1 Battlefield Raptor (KHM) 3
 1 Duelist of Deep Faith (ONE) 9
 1 Brightblade Stoat (BLB) 4
 1 Eidolon of Obstruction (THB) 12
-1 Urdnan, Dromoka Warrior (J25) 34
+1 Lizard Blades (NEO) 153
 1 Syr Alin, the Lion's Claw (FDN) 582
 1 Fervent Champion (ELD) 124
 1 Kindled Heroism (WOE) 138
@@ -80,3 +80,7 @@ Deck
 1 Arid Mesa (SPG) 109
 1 Nomad Outpost (TDM) 263
 1 Cavern of Souls (LCI) 269
+1 Godless Shrine (EOE) 254
+1 Sacred Foundry (EOE) 256
+1 Blood Crypt (RNA) 245
+1 Savai Triome (IKO) 253

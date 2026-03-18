@@ -2,15 +2,62 @@ Commander
 1 Umori, the Collector (MUL) 127
 
 Deck
-20 Swamp (FDN) 277
-19 Forest (FDN) 281
+11 Swamp (TLA) 284
+12 Forest (TLA) 286
 20 Slime Against Humanity (MKM) 177
 1 Acidic Slime (M12) 161
+1 Mitotic Ultimus (Y25) 19
+1 Mephidross Slime (Y23) 25
+1 Gutter Grime (SIS) 51
+1 Miming Slime (PIO) 382
+1 Necropotence (WOT) 31
 1 Scavenging Ooze (FDN) 232
-1 Aeve, Progenitor Ooze (MH2) 148
+1 Corrosive Ooze (DAR) 158
+1 Predatory Sludge (Y22) 30
+1 A-Oran-Rief Ooze (J25) 693
+1 Predator Ooze (FDN) 642
+1 Biogenic Ooze (RNA) 122
 1 March of the World Ooze (DFT) 169
 1 Consuming Blob (MID) 177
-1 A-Ochre Jelly (AFR) 196
-1 Corrosive Ooze (DAR) 158
-1 Gelatinous Cube (AFR) 105
-1 Mitotic Ultimus (Y25) 19
+1 Invasion of Muraganda (MOM) 192
+1 Expanding Ooze (MH3) 184
+1 Branching Evolution (MH3) 285
+1 Doubling Season (FDN) 216
+1 Ouroboroid (EOE) 201
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 The Earth Crystal (FIN) 184
+1 Arcane Signet (ANB) 117
+1 Boseiju, Who Endures (NEO) 266
+1 Bone Splinters (M20) 92
+1 Evendo, Waking Haven (EOE) 253
+1 Doom Blade (STA) 28
+1 Eliminate (STA) 30
+1 Feed the Swarm (ZNR) 102
+1 Fell (BLB) 95
+1 Go for the Throat (J25) 447
+1 Infernal Grasp (MID) 107
+1 Shoot the Sheriff (OTJ) 106
+1 Murder (DSK) 110
+1 Hero's Downfall (FDN) 175
+1 Withering Torment (DSK) 124
+1 Collective Resistance (MH3) 147
+1 Origin of Metalbending (TLA) 187
+1 Swiftfoot Boots (FDN) 258
+1 Lightning Greaves (MRD) 199
+1 Cultivate (STA) 51
+1 Birds of Paradise (BLC) 81
+1 Deathcap Glade (VOW) 261
+1 Llanowar Wastes (BRO) 264
+1 Overgrown Tomb (GRN) 253
+1 Wastewood Verge (DFT) 268
+1 Woodland Cemetery (Y25) 10
+1 Cavern of Souls (LCI) 269
+1 Command Tower (ANB) 118
+1 Fabled Passage (BLB) 252
+1 Reliquary Tower (M19) 254
+1 Secluded Courtyard (FDN) 267
+1 Three Tree City (BLB) 260
+1 Unclaimed Territory (XLN) 258
+1 Verdant Catacombs (SPG) 113
+1 Urborg, Tomb of Yawgmoth (PIO) 118
+1 Yavimaya, Cradle of Growth (MH2) 261

@@ -2,7 +2,7 @@ Commander
 1 Bristly Bill, Spine Sower (OTJ) 157
 
 Deck
-29 Forest (FDN) 281
+28 Forest (FDN) 281
 1 Dragon Sniper (TDM) 139
 1 Bushwhack (FDN) 215
 1 Elvish Mystic (M14) 169
@@ -16,7 +16,6 @@ Deck
 1 Gala Greeters (SNC) 148
 1 Heroic Intervention (M21) 188
 1 Innkeeper's Talent (BLB) 180
-1 Lotus Cobra (ZNR) 193
 1 Ozolith, the Shattered Spire (MOM) 198
 1 Roaring Earth (NEO) 204
 1 Azusa, Lost but Seeking (M21) 173
@@ -61,7 +60,7 @@ Deck
 1 Windswept Heath (MH3) 235
 1 Wooded Foothills (MH3) 236
 1 Multani, Yavimaya's Avatar (DAR) 174
-1 Ghalta, Stampede Tyrant (LCI) 185
+1 Worldweave (Y25) 21
 1 Misty Rainforest (SPG) 111
 1 Defiler of Vigor (DMU) 160
 1 Scythecat Cub (J25) 24
@@ -73,3 +72,5 @@ Deck
 1 Ouroboroid (EOE) 201
 1 Terrasymbiosis (EOE) 210
 1 Evendo, Waking Haven (EOE) 253
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 The Earth King (TLA) 172

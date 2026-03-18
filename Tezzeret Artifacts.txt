@@ -17,7 +17,7 @@ Deck
 1 Swiftfoot Boots (FDN) 258
 1 Tezzeret, Betrayer of Flesh (NEO) 84
 1 Mox Amber (BRR) 35
-1 Chrome Mox (SPG) 0
+1 Ornithopter (BRR) 37
 1 Bolas's Citadel (WAR) 79
 1 Springleaf Drum (BRR) 55
 1 Urn of Godfire (MOM) 266

@@ -1,0 +1,58 @@
+Commander
+1 Bre of Clan Stoutarm (ECL) 207
+
+Deck
+22 Plains (ECL) 269
+17 Mountain (ECL) 272
+1 The Wind Crystal (FIN) 43
+1 Rhox Faithmender (J25) 245
+1 Haliya, Guided by Light (EOE) 19
+1 Exemplar of Light (FDN) 11
+1 Cleric Class (AFR) 6
+1 Soul Warden (M10) 34
+1 Adventurer's Inn (FIN) 271
+1 Aerith Gainsborough (FIN) 4
+1 Swords to Plowshares (STA) 10
+1 Boros Charm (FDN) 721
+1 Path to Exile (OTP) 6
+1 Lightning Helix (MKM) 218
+1 Nykthos Paragon (J25) 230
+1 Odric, Lunarch Marshal (SIR) 39
+1 Aurelia, the Law Above (MKM) 188
+1 Resplendent Angel (LCI) 32
+1 Teferi's Protection (STA) 11
+1 Smothering Tithe (WOT) 13
+1 Enlightened Tutor (TLE) 305
+1 Serra Ascendant (M11) 28
+1 Sun Titan (M11) 35
+1 Laelia, the Blade Reforged (MH3) 281
+1 Mangara, the Diplomat (M21) 27
+1 Lightning, Army of One (FIN) 233
+1 Lightning Greaves (MRD) 199
+1 Heliod, Sun-Crowned (THB) 18
+1 A-Guide of Souls (MH3) 29
+1 Voice of the Blessed (VOW) 44
+1 Witch Enchanter (MH3) 239
+1 Realm-Cloaked Giant (ELD) 26
+1 Archangel of Thune (PIO) 4
+1 Curious Colossus (ECL) 12
+1 Kirol, Attentive First-Year (ECL) 231
+1 Akroma's Will (FCA) 21
+1 Chaos Warp (FIC) 291
+1 Deflecting Palm (KTK) 173
+1 Heliod's Intervention (THB) 19
+1 Legion Leadership (MH3) 255
+1 Restoration Magic (FIN) 30
+1 Blasphemous Act (TLE) 26
+1 Fumigate (FDN) 575
+1 Sanctify (VOW) 33
+1 Thrilling Discovery (STX) 243
+1 Arcane Signet (ANB) 117
+1 Boros Signet (RVR) 251
+1 Pristine Talisman (BRR) 43
+1 Swiftfoot Boots (FDN) 258
+1 Talisman of Conviction (MH1) 230
+1 Well of Lost Dreams (BRR) 62
+1 Authority of the Consuls (FIC) 232
+1 Dawn of Hope (WOT) 2
+1 Leyline of Hope (DSK) 18

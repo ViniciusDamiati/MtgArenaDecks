@@ -1,0 +1,76 @@
+Commander
+1 Halana and Alena, Partners (FDN) 659
+
+Deck
+14 Mountain (ECL) 272
+15 Forest (ECL) 273
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Ouroboroid (EOE) 201
+1 The Earth Crystal (FIN) 184
+1 Branching Evolution (MH3) 285
+1 Doubling Season (FDN) 216
+1 Worldweave (Y25) 21
+1 Worldly Tutor (TLE) 314
+1 Tribute to the World Tree (MOM) 211
+1 Champion of Lambholt (JMP) 383
+1 Kami of Whispered Hopes (MOM) 196
+1 Hardened Scales (J21) 99
+1 Arcane Signet (ANB) 117
+1 Command Tower (ANB) 118
+1 Krenko, Tin Street Kingpin (J25) 572
+1 Inspiring Call (FDN) 226
+1 Forgotten Ancient (J25) 147
+1 Duskshell Crawler (J25) 653
+1 Incubation Druid (FIC) 309
+1 Rishkar, Peema Renegade (J25) 708
+1 Goblin Anarchomancer (MH2) 200
+1 Rhythm of the Wild (RNA) 201
+1 Beast Within (OMB) 33
+1 Terrasymbiosis (EOE) 210
+1 Garruk's Uprising (FDN) 220
+1 The Great Henge (ELD) 161
+1 Snakeskin Veil (TDM) 159
+1 Heroic Intervention (M21) 188
+1 Swiftfoot Boots (FDN) 258
+1 Kodama of the West Tree (NEO) 199
+1 Pridemalkin (M21) 196
+1 Rishkar's Expertise (KLR) 180
+1 Birds of Paradise (BLC) 81
+1 Defiler of Vigor (DMU) 160
+1 Armorcraft Judge (J25) 629
+1 Evolution Sage (WAR) 159
+1 Evolution Witness (MH3) 151
+1 Fertilid (JMP) 398
+1 Llanowar Elves (FDN) 227
+1 Etali, Primal Storm (FDN) 194
+1 Ornery Tumblewagg (OTJ) 171
+1 Quirion Beastcaller (DMU) 175
+1 Thundering Raiju (NEO) 166
+1 All Will Be One (ONE) 118
+1 Toski, Bearer of Secrets (SPG) 60
+1 Warden of the Grove (TDM) 166
+1 Surrak and Goreclaw (MOM) 337
+1 Chaos Warp (FIC) 291
+1 Gaea's Gift (BRO) 182
+1 Hunter's Insight (OMB) 35
+1 Return of the Wildspeaker (ELD) 172
+1 Blasphemous Act (TLE) 26
+1 Cultivate (STA) 51
+1 The Ozolith (IKO) 237
+1 Ozolith, the Shattered Spire (MOM) 198
+1 Rampant Growth (J25) 704
+1 Innkeeper's Talent (BLB) 180
+1 Invigorating Hot Spring (NEO) 223
+1 A-Minsc & Boo, Timeless Heroes (HBG) 243
+1 Ulamog, the Defiler (MH3) 15
+1 Vorinclex, Monstrous Raider (KHM) 199
+1 Boseiju, Who Endures (NEO) 266
+1 Evendo, Waking Haven (EOE) 253
+1 Cavern of Souls (LCI) 269
+1 Fabled Passage (BLB) 252
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Reliquary Tower (M19) 254
+1 Wooded Foothills (MH3) 236
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Stomping Ground (EOE) 258
+1 Thornspire Verge (DSK) 270

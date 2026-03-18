@@ -1,0 +1,103 @@
+Commander
+1 Aragorn, the Uniter (LTR) 192
+
+Deck
+1 Forest (KTK) 258
+1 Avacyn's Pilgrim (SIS) 48
+1 Mountain (KTK) 256
+1 Lightning Bolt (STA) 42
+1 Bloodbraid Elf (2X2) 184
+1 Botanical Sanctum (KLR) 281
+1 Llanowar Elves (DAR) 168
+1 Swords to Plowshares (STA) 10
+1 Wooded Foothills (KTK) 249
+1 Brushland (BRO) 259
+1 Battlefield Forge (BRO) 257
+1 Karplusan Forest (DMU) 250
+1 Command Tower (ANB) 118
+1 Hallowed Fountain (RNA) 251
+1 Breeding Pool (RNA) 246
+1 Stomping Ground (RNA) 259
+1 Steam Vents (GRN) 257
+1 Rootbound Crag (XLN) 256
+1 Flooded Strand (MH3) 220
+1 Windswept Heath (MH3) 235
+1 Lightning Helix (STA) 62
+1 Sacred Foundry (GRN) 254
+1 Temple Garden (GRN) 258
+1 Seachrome Coast (ONE) 258
+1 Razorverge Thicket (ONE) 257
+1 Copperline Gorge (ONE) 249
+1 Arid Mesa (SPG) 109
+1 Scalding Tarn (SPG) 112
+1 Misty Rainforest (SPG) 111
+1 Cavern of Souls (LCI) 269
+1 Burning-Tree Emissary (GTC) 216
+1 Mana Confluence (EOS) 25
+1 Atarka's Command (DTK) 213
+1 Inspiring Vantage (OTJ) 269
+1 Spirebluff Canal (OTJ) 270
+1 Samut, Voice of Dissent (AKR) 258
+1 Knight of Autumn (GRN) 183
+1 Tajic, Legion's Edge (GRN) 204
+1 Rhythm of the Wild (RNA) 201
+1 Collision // Colossus (RNA) 223
+1 Paradise Druid (WAR) 171
+1 Domri, Anarch of Bolas (WAR) 191
+1 The Great Henge (ELD) 161
+1 Chulane, Teller of Tales (ELD) 326
+1 Arcane Signet (ANB) 117
+1 Ilysian Caryatid (ANB) 98
+1 Uro, Titan of Nature's Wrath (THB) 229
+1 Ketria Triome (IKO) 250
+1 Giver of Runes (MH1) 13
+1 Shatterskull Smashing (ZNR) 161
+1 Turntimber Symbiosis (ZNR) 215
+1 Ragavan, Nimble Pilferer (MUL) 86
+1 Esper Sentinel (MH2) 12
+1 Goblin Anarchomancer (MH2) 200
+1 Teferi's Protection (STA) 11
+1 Deserted Beach (MID) 260
+1 Overgrown Farmland (MID) 265
+1 Rockfall Vale (MID) 266
+1 Wash Away (VOW) 87
+1 Halana and Alena, Partners (VOW) 239
+1 Dreamroot Cascade (VOW) 262
+1 Stormcarved Coast (VOW) 265
+1 Sundown Pass (VOW) 266
+1 Boseiju, Who Endures (NEO) 266
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+1 Black Market Tycoon (SNC) 167
+1 Jetmir's Garden (SNC) 250
+1 Spara's Headquarters (SNC) 257
+1 A-Minsc & Boo, Timeless Heroes (HBG) 243
+1 Back-Alley Gardener (Y22) 17
+1 Cabaretti Revels (Y22) 21
+1 Racketeer Boss (Y22) 25
+1 Plaza of Heroes (DMU) 252
+1 Hajar, Loyal Bodyguard (BRO) 211
+1 Armored Scrapgorger (ONE) 158
+1 Jarsyl, Dark Age Scion (Y23) 20
+1 Etali, Primal Conqueror (MOM) 137
+1 Boromir, Warden of the Tower (LTR) 4
+1 Delighted Halfling (LTR) 158
+1 Arwen, Mortal Queen (LTR) 193
+1 Pippin, Guard of the Citadel (LTR) 218
+1 Théoden, King of Rohan (LTR) 233
+1 Ruby, Daring Tracker (FDN) 245
+1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Commercial District (MKM) 259
+1 Annie Joins Up (OTJ) 191
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Ancient Cornucopia (BIG) 16
+1 Ajani, Nacatl Pariah (MH3) 237
+1 Stump Stomp (MH3) 259
+1 A-Ocelot Pride (MH3) 38
+1 Fanatic of Rhonas (MH3) 152
+1 A-Nadu, Winged Wisdom (MH3) 193
+1 Phlage, Titan of Fire's Fury (MH3) 197
+1 Solar Transformer (MH3) 211
+1 A-Llanowar Loamspeaker (DMU) 170
+1 Tajic, Legion's Valor (Y24) 28

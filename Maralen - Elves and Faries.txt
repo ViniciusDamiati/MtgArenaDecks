@@ -1,0 +1,86 @@
+Commander
+1 Maralen, Fae Ascendant (ECL) 233
+
+Deck
+7 Island (ECL) 270
+5 Swamp (ECL) 271
+8 Forest (ECL) 273
+1 Kotis, the Fangkeeper (TDM) 202
+1 High Fae Trickster (FDN) 40
+1 Llanowar Elves (FDN) 227
+1 Bitterblossom (SPG) 0
+1 Faerie Mastermind (MOM) 58
+1 Elvish Mystic (M14) 169
+1 Talion, the Kindly Lord (WOE) 215
+1 Bloom Tender (ECL) 166
+1 Leyline of Anticipation (WOT) 23
+1 Beast Whisperer (GRN) 123
+1 Maraleaf Pixie (ELD) 196
+1 Assassin's Trophy (MKM) 187
+1 Imperious Perfect (FDN) 719
+1 Cyclonic Rift (RTR) 35
+1 Rhystic Study (WOT) 25
+1 Worldly Tutor (TLE) 314
+1 Champions of the Perfect (ECL) 171
+1 Elvish Archdruid (FDN) 219
+1 Dionus, Elvish Archdruid (J25) 52
+1 Elvish Warmaster (KHM) 167
+1 Glen Elendra Guardian (ECL) 51
+1 Lathril, Blade of the Elves (FDN) 242
+1 Priest of Titania (MH3) 286
+1 Reclamation Sage (FDN) 231
+1 Selfless Safewright (ECL) 193
+1 Voracious Tome-Skimmer (ECL) 250
+1 An Offer You Can't Refuse (FDN) 160
+1 Beast Within (OMB) 33
+1 Counterspell (STA) 15
+1 Faebloom Trick (FDN) 38
+1 Glen Elendra's Answer (ECL) 52
+1 Harmonized Crescendo (ECL) 54
+1 Heroic Intervention (M21) 188
+1 Spell Stutter (WOE) 69
+1 Swan Song (THS) 65
+1 Cultivate (STA) 51
+1 Distant Melody (MOR) 32
+1 Farseek (FCA) 45
+1 Stolen by the Fae (ELD) 66
+1 Arcane Signet (ANB) 117
+1 Lightning Greaves (MRD) 199
+1 Maskwood Nexus (KHM) 240
+1 Panharmonicon (KLR) 258
+1 Black Market Connections (HBG) 145
+1 Kindred Discovery (WOT) 22
+1 Breeding Pool (EOE) 251
+1 Command Tower (ANB) 118
+1 Llanowar Wastes (BRO) 264
+1 Dreamroot Cascade (VOW) 262
+1 Misty Rainforest (SPG) 111
+1 Opulent Palace (TDM) 264
+1 Overgrown Tomb (GRN) 253
+1 Polluted Delta (MH3) 224
+1 Sunken Hollow (BFZ) 249
+1 Verdant Catacombs (SPG) 113
+1 Watery Grave (EOE) 261
+1 Woodland Cemetery (Y25) 10
+1 Zagoth Triome (IKO) 259
+1 Chomping Changeling (ECL) 172
+1 Brazen Borrower (ELD) 39
+1 Formidable Speaker (ECL) 176
+1 Roaming Throne (LCI) 258
+1 High Perfect Morcant (ECL) 229
+1 Realmwalker (KHM) 188
+1 Circle of Dreams Druid (AFR) 176
+1 Rankle, Master of Pranks (ELD) 101
+1 Rankle, Pitiless Trickster (Y24) 11
+1 Sprite Noble (J25) 365
+1 Talion's Messenger (WOE) 73
+1 Bitterbloom Bearer (ECL) 88
+1 High Fae Prankster (Y24) 20
+1 Eclipsed Realms (ECL) 263
+1 Gloomlake Verge (DSK) 260
+1 Deathcap Glade (VOW) 261
+1 Wastewood Verge (DFT) 268
+1 Willowrush Verge (DFT) 270
+1 Cavern of Souls (LCI) 269
+1 Fabled Passage (BLB) 252
+1 Reliquary Tower (M19) 254

@@ -3,7 +3,7 @@ Commander
 
 Deck
 15 Plains (TDM) 278
-14 Forest (TDM) 286
+13 Forest (TDM) 286
 1 Parallel Lives (WOT) 58
 1 Doubling Season (FDN) 216
 1 Anointed Procession (AKR) 2
@@ -41,7 +41,6 @@ Deck
 1 Prosperous Innkeeper (HBG) 221
 1 Up the Beanstalk (WOE) 195
 1 Champion of Lambholt (JMP) 383
-1 Circle of Dreams Druid (AFR) 176
 1 Cultivate (STA) 51
 1 Growing Rites of Itlimoc (LCI) 188
 1 Tribute to the World Tree (MOM) 211
@@ -74,3 +73,5 @@ Deck
 1 Mentor of the Meek (PIO) 27
 1 Kutzil, Malamet Exemplar (LCI) 232
 1 Evendo, Waking Haven (EOE) 253
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Brigid, Clachan's Heart (ECL) 7

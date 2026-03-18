@@ -8,10 +8,8 @@ Deck
 1 Danitha Capashen, Paragon (J25) 59
 1 Halvar, God of Battle (KHM) 15
 1 Kellan, the Fae-Blooded (WOE) 230
-1 Rhuk, Hexgold Nabber (ONE) 407
 1 Reyav, Master Smith (MUL) 122
-1 Akiri, Fearless Voyager (ZNR) 220
-1 Soulstealer Axe (Y22) 60
+1 Helm of the Host (BRR) 19
 1 Astor, Bearer of Blades (DMU) 194
 1 Nahiri, Forged in Fury (MAT) 36
 1 The Aetherspark (DFT) 231
@@ -36,14 +34,12 @@ Deck
 1 Mirror Shield (THB) 234
 1 Swiftfoot Boots (FDN) 258
 1 Thran Power Suit (BRO) 253
-1 Andúril, Flame of the West (LTR) 236
 1 Mithril Coat (LTR) 245
 1 Nettlecyst (MH2) 231
 1 Quietus Spike (BRR) 46
 1 Sword of Body and Mind (SOM) 208
 1 Sword of Fire and Ice (DST) 148
 1 Sword of Vengeance (BLB) 395
-1 Sword of Wealth and Power (BIG) 26
 1 Leyline Axe (FDN) 129
 1 Battlefield Forge (BRO) 257
 1 Clifftop Retreat (DAR) 239
@@ -68,13 +64,17 @@ Deck
 1 Open the Armory (PIO) 360
 1 Boros Charm (FDN) 721
 1 Fighter Class (AFR) 222
-1 Koll, the Forgemaster (KHM) 220
+1 Batterskull (NPH) 130
 1 Sigarda's Aid (SIR) 43
 1 All That Glitters (ELD) 2
 1 Forging the Tyrite Sword (KHM) 211
 1 Blacksmith's Talent (BLB) 125
 1 Cloud, Midgar Mercenary (FIN) 10
-1 Cloud, Planet's Champion (FIN) 552
+1 Kaldra Compleat (MH2) 227
 1 Buster Sword (FIN) 255
 1 Genji Glove (FIN) 258
 1 Godo, Bandit Warlord (FCA) 13
+1 Sword of Feast and Famine (MBS) 138
+1 Sword of Light and Shadow (MMA) 217
+1 Sword of Truth and Justice (MH1) 229
+1 Sword of War and Peace (NPH) 161

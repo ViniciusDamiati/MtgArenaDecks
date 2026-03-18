@@ -1,0 +1,75 @@
+Commander
+1 Arabella, Abandoned Doll (DSK) 208
+
+Deck
+16 Plains (TMT) 315
+14 Mountain (TMT) 318
+1 Adeline, Resplendent Cathar (MID) 1
+1 Anim Pakal, Thousandth Moon (LCI) 223
+1 Delney, Streetwise Lookout (MKM) 12
+1 Enduring Innocence (DSK) 6
+1 Esper Sentinel (MH2) 12
+1 Krenko, Mob Boss (FDN) 204
+1 Krenko, Tin Street Kingpin (J25) 572
+1 Mentor of the Meek (PIO) 27
+1 Molten Gatekeeper (MH3) 128
+1 Ornithopter of Paradise (J25) 153
+1 Ragged Playmate (DSK) 150
+1 Skyknight Vanguard (M20) 218
+1 Solemn Simulacrum (FDN) 257
+1 Splitskin Doll (DSK) 33
+1 The Jolly Balloon Man (DSK) 219
+1 Welcoming Vampire (VOW) 46
+1 Boros Charm (FDN) 721
+1 Chaos Warp (FIC) 291
+1 Path to Exile (OTP) 6
+1 Secure the Wastes (PIO) 30
+1 Swords to Plowshares (STA) 10
+1 Teferi's Protection (STA) 11
+1 Hop to It (BLB) 16
+1 Hordeling Outburst (J21) 75
+1 Arcane Signet (ANB) 117
+1 Boros Signet (RVR) 251
+1 Lightning Greaves (MRD) 199
+1 Oketra's Monument (AKR) 277
+1 Swiftfoot Boots (FDN) 258
+1 Talisman of Conviction (MH1) 230
+1 Anointed Procession (AKR) 2
+1 Impact Tremors (FDN) 717
+1 Rabble Rousing (SNC) 24
+1 Raid Bombardment (ANB) 82
+1 Windcrag Siege (TDM) 235
+1 Elspeth, Storm Slayer (TDM) 11
+1 Elspeth, Sun's Champion (PIO) 321
+1 Purphoros, God of the Forge (PIO) 296
+1 Dollmaker's Shop // Porcelain Gallery (DSK) 4
+1 Akroma's Will (FCA) 21
+1 Akroma's Memorial (SPG) 0
+1 Ajani, Nacatl Pariah (MH3) 237
+1 Ossification (ONE) 26
+1 Waystone's Guidance (Y25) 3
+1 Myrel, Shield of Argive (BRO) 18
+1 Toby, Beastie Befriender (DSK) 35
+1 Thunderbond Vanguard (Y25) 2
+1 Brimaz, King of Oreskos (J25) 58
+1 Unbreakable Formation (RNA) 29
+1 Tajic, Legion's Valor (Y24) 28
+1 Felidar Retreat (FDN) 574
+1 Divine Visitation (GRN) 10
+1 Andúril, Flame of the West (LTR) 236
+1 Soul Warden (M10) 34
+1 Land Tax (WOT) 9
+1 Smothering Tithe (WOT) 13
+1 Furycalm Snarl (STX) 266
+1 Farewell (NEO) 13
+1 Abrade (FDN) 188
+1 Authority of the Consuls (FIC) 232
+1 Sunbillow Verge (DFT) 264
+1 Sundown Pass (VOW) 266
+1 Arid Mesa (SPG) 109
+1 Cavern of Souls (LCI) 269
+1 Command Tower (ANB) 118
+1 Fabled Passage (BLB) 252
+1 Nykthos, Shrine to Nyx (THS) 223
+1 Reliquary Tower (M19) 254
+1 Sacred Foundry (EOE) 256

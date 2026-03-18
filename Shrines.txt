@@ -3,7 +3,7 @@ Commander
 
 Deck
 1 Swamp (FDN) 277
-1 Go-Shintai of Shared Purpose (NEO) 14
+1 Crescent Island Temple (TLA) 129
 1 Mountain (FDN) 279
 1 Go-Shintai of Ancient Wars (NEO) 144
 1 Plains (FDN) 273
@@ -16,7 +16,6 @@ Deck
 1 Sanctum of Stone Fangs (M21) 120
 1 Honden of Night's Reach (CHK) 116
 1 Honden of Infinite Rage (CHK) 172
-1 Sanctum of Shattered Heights (M21) 157
 1 Go-Shintai of Boundless Vigor (NEO) 187
 1 Sanctum of Fruitful Harvest (M21) 203
 1 Honden of Life's Web (CHK) 213
@@ -25,20 +24,16 @@ Deck
 1 Island (FDN) 275
 1 Birds of Paradise (BLC) 81
 1 Cyclonic Rift (RTR) 35
-1 Petrify (LCI) 30
 1 Spara's Headquarters (SNC) 257
 1 Impact Tremors (FDN) 717
-1 Growing Rites of Itlimoc (LCI) 188
 1 Tribute to the World Tree (MOM) 211
 1 Parallel Lives (WOT) 58
-1 Doubling Season (FDN) 216
 1 Jukai Naturalist (NEO) 225
 1 Satyr Enchanter (M19) 223
 1 Calix, Guided by Fate (MAT) 26
 1 Garruk's Uprising (FDN) 220
 1 Warleader's Call (MKM) 242
 1 Starfield Mystic (J25) 260
-1 Purphoros, God of the Forge (PIO) 296
 1 Destiny Spinner (THB) 168
 1 Sanctum Weaver (MH2) 171
 1 Weaver of Harmony (NEO) 213
@@ -49,7 +44,7 @@ Deck
 1 Idyllic Tutor (THB) 24
 1 Greater Auramancy (WOT) 4
 1 Teferi's Protection (STA) 11
-1 Anointed Procession (AKR) 2
+1 Dire Tactics (IKO) 183
 1 Hallowed Haunting (VOW) 17
 1 Smothering Tithe (WOT) 13
 1 Sigil of the Empty Throne (CONF) 18
@@ -63,7 +58,6 @@ Deck
 1 Ghostly Prison (SPG) 19
 1 Elesh Norn, Mother of Machines (ONE) 10
 1 Cultivate (STA) 51
-1 Path to Exile (OTP) 6
 1 Swords to Plowshares (STA) 10
 1 Leyline of the Guildpact (MKM) 217
 1 Steam Vents (GRN) 257
@@ -75,11 +69,9 @@ Deck
 1 Command Tower (ANB) 118
 1 Reliquary Tower (M19) 254
 1 Scrabbling Skullcrab (DSK) 71
-1 Shrine Steward (NEO) 259
 1 Chronicler of Worship (Y22) 25
 1 Ancestral Mask (MMQ) 229
 1 Boseiju, Who Endures (NEO) 266
-1 Deserted Beach (MID) 260
 1 Caves of Koilos (DMU) 244
 1 Shipwreck Marsh (MID) 267
 1 Riverpyre Verge (DFT) 260
@@ -101,3 +93,11 @@ Deck
 1 Wastewood Verge (DFT) 268
 1 Arcane Signet (ANB) 117
 1 Yuna, Hope of Spira (FIN) 250
+1 White Lotus Hideout (TLA) 281
+1 Northern Air Temple (TLA) 111
+1 Southern Air Temple (TLA) 36
+1 The Spirit Oasis (TLA) 72
+1 Hei Bai, Forest Guardian (TLE) 139
+1 Aang's Journey (TLA) 1
+1 Entomb (TLE) 310
+1 Honest Work (TLA) 55

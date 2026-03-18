@@ -1,0 +1,90 @@
+Commander
+1 Imoti, Celebrant of Bounty (MUL) 108
+
+Companion
+1 Keruga, the Macrosage (MUL) 113
+
+Deck
+1 Aggressive Mammoth (M19) 302
+1 Agonasaur Rex (DFT) 151
+1 Altanak, the Thrice-Called (DSK) 166
+1 Anticausal Vestige (EOE) 1
+1 Arborback Stomper (KLR) 152
+1 Balustrade Wurm (DSK) 168
+1 Barkchannel Pathway (KHM) 251
+1 Battle Mammoth (KHM) 160
+1 Beanstalk Wurm (WOE) 161
+1 Beluna's Gatekeeper (WOE) 43
+1 Boseiju, Who Endures (NEO) 266
+1 Botanical Sanctum (KLR) 281
+1 Breeding Pool (RNA) 246
+1 Challenger Troll (WAR) 157
+1 Colossal Skyturtle (NEO) 216
+1 Daggermaw Megalodon (DSK) 48
+1 Defiler of Vigor (DMU) 160
+1 Dreamroot Cascade (VOW) 262
+1 Drownyard Lurker (MH3) 3
+1 Elder Gargaroth (M21) 179
+1 Eldrazi Ravager (MH3) 5
+11 Forest (KTK) 258
+1 Gate to Manorborn (HBG) 78
+1 Gate to Seatower (HBG) 79
+1 Generous Ent (LTR) 169
+1 Ghalta, Primal Hunger (RIX) 130
+1 Greater Sandwurm (IKO) 157
+1 Greater Tanuki (NEO) 189
+1 Hall of Storm Giants (AFR) 257
+1 Hedge Maze (MKM) 262
+1 Hidden Cataract (LCI) 273
+1 Hidden Nursery (LCI) 276
+1 Hinterland Harbor (DAR) 240
+1 Hivespine Wolverine (BLB) 177
+1 Horned Loch-Whale (WOE) 53
+10 Island (KTK) 252
+1 Iymrith, Desert Doom (AFR) 62
+1 Jin-Gitaxias (MOM) 65
+1 Kogla, the Titan Ape (IKO) 162
+1 Krosan Tusker (ONS) 272
+1 Marang River Regent (TDM) 51
+1 Marauding Brinefang (LCI) 64
+1 Mirrorshell Crab (NEO) 63
+1 Moldering Gym // Weight Room (DSK) 190
+1 Monstrous Vortex (MH3) 162
+1 Nurturing Bristleback (LCI) 203
+1 Orchard Strider (J25) 694
+1 Otawara, Soaring City (NEO) 271
+1 Overlord of the Hauntwoods (DSK) 194
+1 Primeval Titan (M11) 192
+1 Railway Brawler (OTJ) 175
+1 Restless Vinestalk (WOE) 261
+1 Ridgescale Tusker (KLR) 177
+1 Shefet Monitor (AKR) 217
+1 Silverback Elder (DMU) 177
+1 Slavering Branchsnapper (DSK) 198
+1 Sludge Monster (MID) 76
+1 Sphinx of Clear Skies (DMU) 67
+1 Spinewoods Armadillo (OTJ) 182
+1 Spinewoods Paladin (OTJ) 183
+1 Spring /// Mind (AKR) 263
+1 Stampeding Elk Herd (PIO) 350
+1 Stormkeld Vanguard (WOE) 187
+1 Striped Riverwinder (AKR) 82
+1 Surrak and Goreclaw (MOM) 337
+1 Sword Coast Serpent (HBG) 134
+1 Thrun, Breaker of Silence (ONE) 186
+1 Timberland Ancient (MOM) 210
+1 Titanoth Rex (IKO) 174
+1 Topiary Panther (MKM) 179
+1 Trollbred Guardian (RNA) 148
+1 Vineglimmer Snarl (STX) 274
+1 Vorinclex (MOM) 213
+1 Waker of Waves (M21) 84
+1 Warped Tusker (MH3) 16
+1 Warzone Duplicator (Y23) 30
+1 Waterlogged Grove (MH1) 249
+1 Workshop Warchief (SNC) 165
+1 Yavimaya Coast (DMU) 261
+1 Yedora, Grave Gardener (MUL) 95
+
+Sideboard
+1 Keruga, the Macrosage (MUL) 113

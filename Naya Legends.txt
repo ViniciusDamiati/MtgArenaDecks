@@ -1,0 +1,100 @@
+Commander
+1 Emperor Apatzec Intli IV (Y24) 21
+
+Deck
+2 Forest (KTK) 258
+2 Plains (KTK) 250
+1 Avacyn's Pilgrim (SIS) 48
+2 Mountain (KTK) 256
+1 Llanowar Elves (DAR) 168
+1 Birds of Paradise (BLC) 81
+1 Swords to Plowshares (STA) 10
+1 Wooded Foothills (KTK) 249
+1 Mother of Runes (ULG) 14
+1 Brushland (BRO) 259
+1 Command Tower (ANB) 118
+1 Bloom Tender (ECL) 166
+1 Stomping Ground (RNA) 259
+1 Rootbound Crag (XLN) 256
+1 Captain Sisay (INV) 237
+1 Sunpetal Grove (XLN) 257
+1 Flooded Strand (MH3) 220
+1 Windswept Heath (MH3) 235
+1 Bloodstained Mire (MH3) 216
+1 Elesh Norn, Grand Cenobite (NPH) 9
+1 Farseek (FCA) 45
+1 Sacred Foundry (GRN) 254
+1 Temple Garden (GRN) 258
+1 Razorverge Thicket (ONE) 257
+1 Copperline Gorge (ONE) 249
+1 Gemstone Caverns (EOS) 16
+1 Exploration (DMR) 159
+1 Arid Mesa (SPG) 109
+1 Scalding Tarn (SPG) 112
+1 Misty Rainforest (SPG) 111
+1 Marsh Flats (MH2) 248
+1 Verdant Catacombs (SPG) 113
+1 Cavern of Souls (LCI) 269
+1 Aurelia, the Warleader (FDN) 651
+1 Elvish Mystic (M14) 169
+1 Mox Amber (DAR) 224
+1 Domri, Anarch of Bolas (WAR) 191
+1 Arcane Signet (ANB) 117
+1 Kogla, the Titan Ape (IKO) 162
+1 Prismatic Vista (SPG) 38
+1 Solitude (SPG) 44
+1 Fury (SPG) 47
+1 Ragavan, Nimble Pilferer (MUL) 86
+1 Esper Sentinel (MH2) 12
+1 Goblin Anarchomancer (MH2) 200
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Bard Class (AFR) 217
+1 Adeline, Resplendent Cathar (MID) 1
+1 Katilda, Dawnhart Prime (MID) 230
+1 Sundown Pass (VOW) 266
+1 Boseiju, Who Endures (NEO) 266
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Jetmir, Nexus of Revels (SNC) 193
+1 Jetmir's Garden (SNC) 250
+1 Kami of Bamboo Groves (Y22) 24
+1 Cabaretti Revels (Y22) 21
+1 Plaza of Heroes (DMU) 252
+1 Loran of the Third Path (BRO) 12
+1 Gwenna, Eyes of Gaea (BRO) 185
+1 Hajar, Loyal Bodyguard (BRO) 211
+1 Etali, Primal Conqueror (MOM) 137
+1 Djeru and Hazoret (MOM) 221
+1 Boromir, Warden of the Tower (LTR) 4
+1 Flowering of the White Tree (LTR) 15
+1 Delighted Halfling (LTR) 158
+1 Éowyn, Fearless Knight (LTR) 201
+1 Ruby, Daring Tracker (FDN) 245
+1 Get Lost (LCI) 14
+1 Kutzil, Malamet Exemplar (LCI) 232
+1 Anzrag, the Quake-Mole (MKM) 186
+1 Commercial District (MKM) 259
+1 Elegant Parlor (MKM) 260
+1 Lush Portico (MKM) 263
+1 Mythweaver Poq (Y24) 19
+1 Annie Joins Up (OTJ) 191
+1 Roxanne, Starfall Savant (OTJ) 228
+1 Ajani, Nacatl Pariah (MH3) 237
+1 Stump Stomp (MH3) 259
+1 Fanatic of Rhonas (MH3) 152
+1 Phlage, Titan of Fire's Fury (MH3) 197
+1 Arena of Glory (MH3) 215
+1 Tajic, Legion's Valor (Y24) 28
+1 Hushwood Verge (DSK) 261
+1 Thornspire Verge (DSK) 270
+1 Sutina, Speaker of the Tajuru (J25) 56
+1 Sunbillow Verge (DFT) 264
+1 Voice of Victory (TDM) 33
+1 Herd Heirloom (TDM) 144
+1 Venat, Heart of Hydaelyn (FIN) 39
+1 Torgal, A Fine Hound (FIN) 208
+1 Serah Farron (FIN) 240
+1 Song of Seasons (Y25) 26
+1 Hexing Squelcher (ECL) 145
+1 Formidable Speaker (ECL) 176
+1 Bre of Clan Stoutarm (ECL) 207
+1 The Scouring Stormsoul (OM1) 113

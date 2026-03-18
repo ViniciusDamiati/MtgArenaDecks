@@ -2,7 +2,7 @@ Commander
 1 Azusa, Lost but Seeking (M21) 173
 
 Deck
-43 Forest (FIN) 306
+42 Forest (FIN) 306
 1 Bristly Bill, Spine Sower (OTJ) 157
 1 Lotus Cobra (ZNR) 193
 1 Roaring Earth (NEO) 204
@@ -59,3 +59,4 @@ Deck
 1 Windswept Heath (MH3) 235
 1 Wooded Foothills (MH3) 236
 1 Map the Frontier (OTJ) 170
+1 Worldweave (Y25) 21

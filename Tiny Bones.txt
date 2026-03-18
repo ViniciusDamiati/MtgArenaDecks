@@ -8,7 +8,7 @@ Deck
 1 Binding Negotiation (OTJ) 78
 1 Burglar Rat (FDN) 170
 1 Macabre Waltz (FDN) 177
-1 Virus Beetle (NEO) 128
+1 Virus Beetle (EOE) 124
 1 Cerebral Confiscation (MKM) 81
 1 Dying to Serve (VOW) 109
 1 Gastal Raider (DFT) 86

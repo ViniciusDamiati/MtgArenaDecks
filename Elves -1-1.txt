@@ -1,0 +1,78 @@
+Commander
+1 High Perfect Morcant (ECL) 229
+
+Deck
+13 Swamp (ECL) 271
+14 Forest (ECL) 273
+1 Hapatra, Vizier of Poisons (AKR) 238
+1 Lathril, Blade of the Elves (FDN) 242
+1 Priest of Titania (MH3) 286
+1 Elvish Archdruid (FDN) 219
+1 Dionus, Elvish Archdruid (J25) 52
+1 Leaf-Crowned Visionary (DMU) 167
+1 Evolution Sage (WAR) 159
+1 Imperious Perfect (FDN) 719
+1 Lys Alana Huntmaster (LRW) 229
+1 Marwyn, the Nurturer (J25) 687
+1 Elvish Warmaster (KHM) 167
+1 Tyvar the Bellicose (MAT) 48
+1 Llanowar Elves (FDN) 227
+1 Elvish Mystic (M14) 169
+1 Beast Whisperer (GRN) 123
+1 Heroic Intervention (M21) 188
+1 A-Tyvar Kell (J25) 734
+1 Elven Ambush (KHM) 391
+1 Worldly Tutor (TLE) 314
+1 A-The One Ring (LTR) 246
+1 Crop Rotation (ULG) 98
+1 Allosaurus Shepherd (JMP) 28
+1 Champions of the Perfect (ECL) 171
+1 Circle of Dreams Druid (AFR) 176
+1 Eladamri, Korvecdal (MH3) 149
+1 Formidable Speaker (ECL) 176
+1 Glissa Sunslayer (ONE) 202
+1 Massacre Girl, Known Killer (MKM) 94
+1 Morcant's Loyalist (ECL) 236
+1 Poison-Tip Archer (M19) 220
+1 Reclamation Sage (FDN) 231
+1 Selfless Safewright (ECL) 193
+1 Shaman of the Pack (ORI) 217
+1 Assassin's Trophy (MKM) 187
+1 Beast Within (OMB) 33
+1 Golgari Charm (RTR) 164
+1 Revitalizing Repast (MH3) 256
+1 Vraska's Fall (ONE) 116
+1 Cultivate (STA) 51
+1 Infectious Inquiry (ONE) 97
+1 Trystan's Command (ECL) 247
+1 Unnatural Restoration (ONE) 191
+1 Arcane Signet (ANB) 117
+1 Chronicle of Victory (ECL) 253
+1 Lightning Greaves (MRD) 199
+1 Swiftfoot Boots (FDN) 258
+1 Guardian Project (RNA) 130
+1 Nest of Scarabs (AKR) 117
+1 Bojuka Bog (WWK) 132
+1 Boseiju, Who Endures (NEO) 266
+1 Cavern of Souls (LCI) 269
+1 Command Tower (ANB) 118
+1 Deathcap Glade (VOW) 261
+1 Karn's Bastion (WAR) 248
+1 Llanowar Wastes (BRO) 264
+1 Overgrown Tomb (GRN) 253
+1 Three Tree City (BLB) 260
+1 Verdant Catacombs (SPG) 113
+1 Wastewood Verge (DFT) 268
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Urborg, Tomb of Yawgmoth (PIO) 118
+1 Woodland Cemetery (Y25) 10
+1 Virulent Emissary (ECL) 202
+1 Roaming Throne (LCI) 258
+1 Freyalise, Skyshroud Partisan (J21) 26
+1 Abomination of Llanowar (CMR) 265
+1 Realmwalker (KHM) 188
+1 Yawgmoth, Thran Physician (MH1) 116
+1 Dark Ritual (STA) 26
+1 Fell (BLB) 95
+1 Go for the Throat (J25) 447
+1 Toxic Deluge (MH3) 277

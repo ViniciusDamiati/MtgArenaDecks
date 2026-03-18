@@ -1,0 +1,79 @@
+Commander
+1 Titania, Protector of Argoth (MH2) 287
+
+Deck
+25 Forest (ECL) 273
+1 Titania, Voice of Gaea (BRO) 193
+1 Argoth, Sanctum of Nature (BRO) 256
+1 Zuran Orb (MH2) 300
+1 Ramunap Excavator (AKR) 211
+1 Splendid Reclamation (SIR) 216
+1 Sylvan Safekeeper (MH3) 287
+1 Harrow (J21) 100
+1 Azusa, Lost but Seeking (M21) 173
+1 Scapeshift (MOR) 136
+1 Springbloom Druid (FDN) 646
+1 Elemental Bond (TLE) 40
+1 Crucible of Worlds (M19) 229
+1 Garruk's Uprising (FDN) 220
+1 Beast Within (OMB) 33
+1 Lotus Cobra (ZNR) 193
+1 Roiling Regrowth (ZNR) 201
+1 Exploration (DMR) 159
+1 Oracle of Mul Daya (JMP) 415
+1 Entish Restoration (LTR) 163
+1 Conduit of Worlds (ONE) 163
+1 Crop Rotation (ULG) 98
+1 Worldly Tutor (TLE) 314
+1 Lotus Field (M20) 249
+1 Elvish Reclaimer (M20) 169
+1 Aftermath Analyst (MKM) 148
+1 Ancient Greenwarden (J25) 627
+1 Courser of Kruphix (BNG) 119
+1 Ashaya, Soul of the Wild (ZNR) 179
+1 Craterhoof Behemoth (TDM) 138
+1 Dryad of the Ilysian Grove (THB) 169
+1 Eternal Witness (2X2) 145
+1 Icetill Explorer (EOE) 192
+1 Rampaging Baloths (FDN) 645
+1 Scute Swarm (ZNR) 203
+1 Tireless Provisioner (J25) 728
+1 Tireless Tracker (FIC) 316
+1 Wayward Swordtooth (RIX) 150
+1 Archdruid's Charm (MKM) 151
+1 Heroic Intervention (M21) 188
+1 Return of the Wildspeaker (ELD) 172
+1 Bala Ged Recovery (PIO) 165
+1 Cultivate (STA) 51
+1 Green Sun's Zenith (MBS) 81
+1 Rishkar's Expertise (KLR) 180
+1 Shamanic Revelation (PIO) 194
+1 Sylvan Scrying (BFZ) 192
+1 Emerald Medallion (MH3) 291
+1 Kenrith's Transformation (ELD) 164
+1 Tribute to the World Tree (MOM) 211
+1 Nissa, Who Shakes the World (WAR) 169
+1 Command Beacon (FCA) 64
+1 Dark Depths (UMA) 241
+1 Evolving Wilds (ECL) 264
+1 Fabled Passage (BLB) 252
+1 Ghost Quarter (ISD) 240
+1 Misty Rainforest (SPG) 111
+1 Prismatic Vista (SPG) 38
+1 Terramorphic Expanse (DSK) 269
+1 Thespian's Stage (GTC) 248
+1 Verdant Catacombs (SPG) 113
+1 Windswept Heath (MH3) 235
+1 Wooded Foothills (MH3) 236
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Outcaster Trailblazer (OTJ) 173
+1 Reclamation Sage (FDN) 231
+1 Nissa, Vital Force (KLR) 172
+1 Parallel Lives (WOT) 58
+1 Doubling Season (FDN) 216
+1 Brood Astronomer (Y25) 18
+1 Cycle of Renewal (TLA) 170
+1 Squirrel Wrangler (J21) 108
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Lumra, Bellow of the Woods (BLB) 183
+1 Mythweaver Poq (Y24) 19

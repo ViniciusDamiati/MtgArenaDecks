@@ -1,0 +1,92 @@
+Commander
+1 Tatyova, Benthic Druid (FDN) 247
+
+Deck
+11 Island (EOE) 270
+13 Forest (EOE) 276
+1 Evendo, Waking Haven (EOE) 253
+1 Azusa, Lost but Seeking (M21) 173
+1 Lotus Cobra (ZNR) 193
+1 Ramunap Excavator (AKR) 211
+1 Harrow (J21) 100
+1 Tireless Provisioner (J25) 728
+1 Oracle of Mul Daya (JMP) 415
+1 Exploration (DMR) 159
+1 Dryad of the Ilysian Grove (THB) 169
+1 Cultivate (STA) 51
+1 Growth Spiral (STA) 61
+1 Scute Swarm (ZNR) 203
+1 Rampaging Baloths (FDN) 645
+1 Counterspell (FCA) 4
+1 Rampant Growth (J25) 704
+1 Beast Within (OMB) 33
+1 Explore (JMP) 393
+1 Crop Rotation (ULG) 98
+1 Zendikar's Roil (JMP) 448
+1 A-Druid Class (AFR) 180
+1 Courser of Kruphix (BNG) 119
+1 Ancient Greenwarden (J25) 627
+1 Ashaya, Soul of the Wild (ZNR) 179
+1 Eternal Witness (2X2) 145
+1 Llanowar Scout (DAR) 170
+1 Loot, Exuberant Explorer (FDN) 106
+1 Springbloom Druid (FDN) 646
+1 Wayward Swordtooth (RIX) 150
+1 Entish Restoration (LTR) 163
+1 Heroic Intervention (M21) 188
+1 Negate (ZNR) 71
+1 Roiling Regrowth (ZNR) 201
+1 Swan Song (THS) 65
+1 Broken Bond (DAR) 157
+1 Farseek (FCA) 45
+1 Scapeshift (MOR) 136
+1 Splendid Reclamation (SIR) 216
+1 Arcane Signet (ANB) 117
+1 Conduit of Worlds (ONE) 163
+1 Crucible of Worlds (M19) 229
+1 Burgeoning (SPG) 0
+1 Spelunking (LCI) 213
+1 Wrenn and Seven (MID) 208
+1 Bonny Pall, Clearcutter (OTJ) 196
+1 Ruin Crab (ZNR) 75
+1 Sporemound (J25) 719
+1 Cyclonic Rift (RTR) 35
+1 Urban Evolution (PIO) 251
+1 Retreat to Kazandu (J25) 707
+1 Birds of Paradise (BLC) 81
+1 Bushwhack (FDN) 215
+1 Kami of Bamboo Groves (Y22) 24
+1 Krosan Grip (STA) 53
+1 Thirsting Roots (ONE) 185
+1 Utopia Sprawl (WOT) 63
+1 Bristly Bill, Spine Sower (OTJ) 157
+1 Scythecat Cub (J25) 24
+1 Tifa Lockhart (FIN) 206
+1 Mossborn Hydra (FDN) 107
+1 Nissa, Resurgent Animist (MAT) 22
+1 Traveling Chocobo (FIN) 210
+1 Tribute to the World Tree (MOM) 211
+1 Undergrowth Recon (MKM) 181
+1 Worldweave (Y25) 21
+1 Mythweaver Poq (Y24) 19
+1 Nissa, Who Shakes the World (WAR) 169
+1 Silverback Elder (DMU) 177
+1 Multani, Yavimaya's Avatar (DAR) 174
+1 Cultivator Colossus (VOW) 195
+1 Awaken the Woods (BRO) 170
+1 Boseiju, Who Endures (NEO) 266
+1 Breeding Pool (EOE) 251
+1 Swiftfoot Boots (FDN) 258
+1 Cavern of Souls (LCI) 269
+1 Fabled Passage (BLB) 252
+1 Flooded Strand (MH3) 220
+1 Misty Rainforest (SPG) 111
+1 Reliquary Tower (M19) 254
+1 Windswept Heath (MH3) 235
+1 Wooded Foothills (MH3) 236
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Willowrush Verge (DFT) 270
+1 Cabaretti Courtyard (SNC) 249
+1 Brokers Hideout (SNC) 248
+1 Polluted Delta (MH3) 224
+1 Scalding Tarn (SPG) 112

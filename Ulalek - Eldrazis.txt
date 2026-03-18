@@ -9,7 +9,7 @@ Deck
 1 Ulamog, the Ceaseless Hunger (BFZ) 15
 1 Ugin's Labyrinth (MH3) 233
 1 Emrakul, the Promised End (SIR) 6
-1 Ugin, the Ineffable (WAR) 2
+1 Void Winnower (PIO) 3
 1 Shivan Reef (DMU) 255
 1 Adarkar Wastes (DMU) 243
 1 Caves of Koilos (DMU) 244
@@ -57,7 +57,6 @@ Deck
 1 Mind Stone (WTH) 153
 1 Eldrazi Repurposer (MH3) 150
 1 Titans' Vanguard (MH3) 206
-1 Emrakul's Messenger (MH3) 61
 1 Palladium Myr (M21) 234
 1 Spawn-Gang Commander (MH3) 140
 1 Hedron Archive (JMP) 468
@@ -81,7 +80,7 @@ Deck
 1 Arid Archway (OTJ) 252
 1 Horrific Assault (MH3) 157
 1 It That Heralds the End (MH3) 9
-6 Forest (ANB) 112
+4 Forest (ANB) 112
 4 Mountain (ANB) 114
 2 Island (ANB) 113
 1 Roaming Throne (LCI) 258
@@ -92,3 +91,5 @@ Deck
 1 Summon: Bahamut (FIN) 1
 1 The Eternity Elevator (EOE) 241
 1 Eldrazi Temple (EOS) 14
+1 Planetarium of Wan Shi Tong (TLA) 259
+2 Wastes (OGW) 186

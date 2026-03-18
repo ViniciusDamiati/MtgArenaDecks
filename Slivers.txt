@@ -36,15 +36,14 @@ Deck
 1 Metallic Mimic (KLR) 251
 1 Faceless Agent (J21) 1
 1 Maskwood Nexus (KHM) 240
-1 Barkform Harvester (BLB) 243
 1 Progenitor Mimic (PIO) 238
-1 Universal Automaton (MH1) 235
+1 Krosan Grip (STA) 53
 1 Taurean Mauler (FDN) 633
 1 Surgical Metamorph (Y23) 6
-1 Phyrexian Metamorph (NPH) 42
+1 Counterspell (STA) 15
 1 Irregular Cohort (MH1) 15
 1 Cyclonic Rift (RTR) 35
-1 Chrome Mox (SPG) 0
+1 Negate (ZNR) 71
 1 Mox Amber (BRR) 35
 1 Chromatic Lantern (BRR) 10
 1 Darksteel Ingot (PIO) 254
@@ -101,3 +100,4 @@ Deck
 1 Shoot the Sheriff (OTJ) 106
 1 Chimil, the Inner Sun (LCI) 249
 1 Land Tax (WOT) 9
+1 Esika, God of the Tree (KHM) 168

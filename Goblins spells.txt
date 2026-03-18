@@ -2,7 +2,7 @@ Commander
 1 Zada, Hedron Grinder (J25) 76
 
 Deck
-40 Mountain (FDN) 279
+37 Mountain (FDN) 279
 1 Akroan Crusader (PIO) 123
 1 Brave Meadowguard (Y25) 13
 1 Emberheart Challenger (BLB) 133
@@ -12,3 +12,56 @@ Deck
 1 Dragon Fodder (FDN) 535
 1 Krenko, Mob Boss (FDN) 204
 1 Krenko, Tin Street Kingpin (J25) 572
+1 Fists of Flame (TLE) 166
+1 Sudden Breakthrough (STX) 116
+1 Expedite (PIO) 374
+1 Ancestors' Aid (LCI) 132
+1 Empty the Warrens (DMR) 118
+1 Krenko's Command (J25) 140
+1 Renegade Tactics (J25) 590
+1 Hordeling Outburst (J21) 75
+1 Skirk Prospector (DAR) 144
+1 Goblin Instigator (M19) 142
+1 Goblin Matron (MH1) 129
+1 Goblin Warchief (DAR) 130
+1 Siege-Gang Commander (DAR) 143
+1 Guttersnipe (FDN) 716
+1 Gamble (TLE) 312
+1 Underworld Breach (THB) 161
+1 Storm-Kiln Artist (STX) 115
+1 Beetleback Chief (J25) 129
+1 Legion Warboss (GRN) 109
+1 Battle Cry Goblin (J25) 127
+1 Goblin Chieftain (JMP) 324
+1 Pashalik Mons (MH1) 138
+1 Runaway Steam-Kin (GRN) 115
+1 Searslicer Goblin (FDN) 93
+1 Squee, Dubious Monarch (DMU) 146
+1 Young Pyromancer (J25) 618
+1 Blazing Crescendo (ONE) 123
+1 Brute Strength (J25) 528
+1 Chaos Warp (FIC) 291
+1 Crimson Wisps (J25) 533
+1 Felonious Rage (MKM) 125
+1 Flick a Coin (WOE) 128
+1 Monstrous Rage (WOE) 142
+1 Run Amok (TLE) 258
+1 Siege Smash (MH3) 136
+1 Magmatic Hellkite (TDM) 111
+1 Temur Battle Rage (FRF) 116
+1 Titan's Strength (J25) 603
+1 Ancestral Anger (J25) 516
+1 Electroduplicate (FDN) 85
+1 Grotag Bug-Catcher (ZNR) 142
+1 Kick in the Door (AFR) 153
+1 Twinflame Tyrant (FDN) 97
+1 Witch's Mark (PIO) 160
+1 Arcane Signet (ANB) 117
+1 Ruby Medallion (MH3) 295
+1 Swiftfoot Boots (FDN) 258
+1 Goblinslide (KTK) 109
+1 Impact Tremors (FDN) 717
+1 A-Leyline of Resonance (DSK) 143
+1 Castle Embereth (ELD) 239
+1 Dwarven Mine (ELD) 243
+1 Reliquary Tower (M19) 254

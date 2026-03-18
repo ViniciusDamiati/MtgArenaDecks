@@ -2,33 +2,85 @@ Commander
 1 A-Omnath, Locus of Creation (ZNR) 232
 
 Deck
-10 Plains (FDN) 273
-10 Island (FDN) 275
-10 Mountain (FDN) 279
-10 Forest (FDN) 281
+5 Plains (FDN) 273
+4 Island (FDN) 275
+5 Mountain (FDN) 279
+7 Forest (FDN) 281
 1 Felidar Retreat (FDN) 574
-1 Ruin Crab (ZNR) 75
 1 Bristly Bill, Spine Sower (OTJ) 157
-1 A-Druid Class (AFR) 180
 1 Lotus Cobra (ZNR) 193
-1 Roaring Earth (NEO) 204
-1 Evolution Sage (WAR) 159
 1 Mossborn Hydra (FDN) 107
 1 Nissa, Resurgent Animist (MAT) 22
 1 Scute Swarm (ZNR) 203
 1 Tireless Provisioner (J25) 728
 1 Rampaging Baloths (FDN) 645
-1 Primeval Bounty (FDN) 644
-1 Zendikar's Roil (JMP) 448
 1 Omnath, Locus of Rage (BFZ) 217
 1 A-Phylath, World Sculptor (ZNR) 234
 1 Tatyova, Benthic Druid (FDN) 247
 1 Omnath, Locus of the Roil (M20) 216
 1 Dragonback Assault (TDM) 179
-1 Strider, Ranger of the North (LTR) 232
-1 Maja, Bretagard Protector (KHM) 222
 1 Moraug, Fury of Akoum (ZNR) 150
-1 Spitfire Lagac (FDN) 208
 1 Courser of Kruphix (BNG) 119
 1 Tireless Tracker (J25) 729
-1 Glacierwood Siege (TDM) 189
+1 Scythecat Cub (J25) 24
+1 Greensleeves, Maro-Sorcerer (DMC) 27
+1 Tannuk, Memorial Ensign (EOE) 233
+1 Birds of Paradise (BLC) 81
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Cultivate (STA) 51
+1 Arcane Signet (ANB) 117
+1 Lightning Greaves (MRD) 199
+1 Swords to Plowshares (STA) 10
+1 Farewell (NEO) 13
+1 Cyclonic Rift (RTR) 35
+1 Teferi's Protection (STA) 11
+1 Path to Exile (OTP) 6
+1 Ossification (ONE) 26
+1 Honest Work (TLA) 55
+1 Unable to Scream (DSK) 78
+1 Rampant Growth (J25) 704
+1 Scapeshift (MOR) 136
+1 Crucible of Worlds (M19) 229
+1 Ramunap Excavator (AKR) 211
+1 Entish Restoration (LTR) 163
+1 Harrow (J21) 100
+1 Boseiju, Who Endures (NEO) 266
+1 Steam Vents (ECL) 267
+1 Sacred Foundry (EOE) 256
+1 Temple Garden (ECL) 268
+1 Breeding Pool (EOE) 251
+1 Jetmir's Garden (SNC) 250
+1 Spara's Headquarters (SNC) 257
+1 Arid Mesa (SPG) 109
+1 Brokers Hideout (SNC) 248
+1 Cabaretti Courtyard (SNC) 249
+1 Command Tower (ANB) 118
+1 Cavern of Souls (LCI) 269
+1 Fabled Passage (BLB) 252
+1 Flooded Strand (MH3) 220
+1 Evolving Wilds (ECL) 264
+1 Misty Rainforest (SPG) 111
+1 Reliquary Tower (M19) 254
+1 Scalding Tarn (SPG) 112
+1 Wooded Foothills (MH3) 236
+1 Yavimaya, Cradle of Growth (MH2) 261
+1 Traveling Chocobo (FIN) 210
+1 Farseek (FCA) 45
+1 Worldly Tutor (TLE) 314
+1 Ashaya, Soul of the Wild (ZNR) 179
+1 Azusa, Lost but Seeking (M21) 173
+1 Dryad of the Ilysian Grove (THB) 169
+1 Loot, Exuberant Explorer (FDN) 106
+1 Oracle of Mul Daya (JMP) 415
+1 Risen Reef (M20) 217
+1 Crop Rotation (ULG) 98
+1 Growth Spiral (RNA) 178
+1 Heroic Intervention (M21) 188
+1 Roiling Regrowth (ZNR) 201
+1 Awaken the Woods (BRO) 170
+1 Explore (JMP) 393
+1 Conduit of Worlds (ONE) 163
+1 Case of the Locked Hothouse (MKM) 155
+1 Exploration (DMR) 159
+1 Spelunking (LCI) 213
+1 Multani, Yavimaya's Avatar (DAR) 174

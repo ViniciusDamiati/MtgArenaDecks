@@ -1,0 +1,65 @@
+Commander
+1 Elspeth, Storm Slayer (TDM) 11
+
+Deck
+39 Plains (EOE) 268
+1 Elspeth, Sun's Champion (PIO) 321
+1 Anointed Procession (AKR) 2
+1 Path to Exile (OTP) 6
+1 Swords to Plowshares (STA) 10
+1 Final Showdown (OTJ) 11
+1 Land Tax (WOT) 9
+1 Disenchant (BRO) 6
+1 Journey to Nowhere (OTP) 3
+1 Ossification (ONE) 26
+1 Petrify (LCI) 30
+1 Waystone's Guidance (Y25) 3
+1 Adeline, Resplendent Cathar (MID) 1
+1 Brimaz, King of Oreskos (J25) 58
+1 Caretaker's Talent (BLB) 6
+1 Crusader of Odric (FDN) 569
+1 Ghostly Prison (SPG) 19
+1 Halo Fountain (SNC) 15
+1 Idyllic Tutor (THB) 24
+1 Split Up (DSK) 32
+1 Teferi's Protection (STA) 11
+1 Toby, Beastie Befriender (DSK) 35
+1 Unbreakable Formation (RNA) 29
+1 Akroma's Will (FCA) 21
+1 Archangel of Tithes (OTJ) 2
+1 Felidar Retreat (FDN) 574
+1 Leonin Warleader (ANB) 13
+1 Myrel, Shield of Argive (BRO) 18
+1 Smothering Tithe (WOT) 13
+1 Divine Visitation (GRN) 10
+1 Elesh Norn, Mother of Machines (ONE) 10
+1 Rabble Rousing (SNC) 24
+1 Dollmaker's Shop // Porcelain Gallery (DSK) 4
+1 Moonshaker Cavalry (WOE) 21
+1 Solar Transformer (MH3) 211
+1 Coldsteel Heart (CSP) 136
+1 Shadowspear (THB) 236
+1 Arcane Signet (ANB) 117
+1 Crashing Drawbridge (ELD) 217
+1 Swiftfoot Boots (FDN) 258
+1 Heraldic Banner (FDN) 254
+1 Oketra's Monument (AKR) 277
+1 Chimil, the Inner Sun (LCI) 249
+1 Akroma's Memorial (SPG) 0
+1 Reliquary Tower (M19) 254
+1 Odric, Lunarch Marshal (SIR) 39
+1 Cathars' Crusade (JMP) 95
+1 Pearl Medallion (MH3) 294
+1 Esper Sentinel (MH2) 12
+1 Boromir, Warden of the Tower (LTR) 4
+1 Soul Warden (M10) 34
+1 Wrath of God (AKR) 46
+1 Farewell (NEO) 13
+1 Flowering of the White Tree (LTR) 15
+1 Authority of the Consuls (FIC) 232
+1 Mind Stone (WTH) 153
+1 Dedicated Dollmaker (Y24) 2
+1 Delney, Streetwise Lookout (MKM) 12
+1 Thunderbond Vanguard (Y25) 2
+1 Staff of the Storyteller (ONC) 10
+1 Skrelv's Hive (ONE) 34
